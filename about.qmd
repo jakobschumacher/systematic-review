@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+This webpage consists out of notes taken during the course [_"Methods and tools for evidence-based public health with a focus on infectious disease epidemiology, prevention"_](https://eva.ecdc.europa.eu/course/view.php?id=794). 
+  The course has been created by [Heidelberg Research to Practice Group Coordination Team](https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/teaching/teaching-1/short-courses/heidelberg-research-to-practice-group), [Evaplan](https://www.evaplan.org/) and [ECDC Virtual academy](https://eva.ecdc.europa.eu/)
+  The purpose of this book is to remind the future self of the author on the contents of the course. There are many guides in the internet, that are more through and better reviewed, for example the [cochrane handbook](https://training.cochrane.org/handbook/current)
+  
+  
+## Disclaimer
+The course is build upon the course but the facilitators of the course bear no responsibility for the contents of this webpage. All information on this page might be incorrect and false.

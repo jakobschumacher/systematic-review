@@ -1,0 +1,114 @@
+---
+title: "Terminology of the course"
+---
+
+## Public health
+_Public Health is the science and practice of preventing disease, prolonging life and promoting health through organised efforts of society_
+Central elements are 
+  - the dual character of Public Health as science and practice 
+  - integration an simulatneity of the five pillars of public health
+
+Five pillars of Public Health
+  - Health promotion
+  - Prevention
+  - Treatment
+  - Rehabilitation
+  - Long-term care
+  
+## Planetary Health
+_Planetary health describes how human health depends on the health of ecosystems. The consequences of global climate change, species extinction, threats to oceans and air pollution call for a rethink of the health sector_
+- Key concepts are 
+  - Adaption 
+  - Mitigation 
+  
+## Health policy
+_Health pilicy id defined as the decisions, plans and actions that are undertaken to achive specific healthcare goals within a society_
+
+
+## Epidemiology
+_Epidemiology studies how diseases spread amongst human and non-human populations, of often disease occur in different groups of people and why_
+
+## Evidence
+_Findings from research and other knowledge that may serve as a basis for decision-making in Public health and healthcare_
+What counts as evidence is context-dependent and is often broader that the knowledge produced through the scientific method.
+
+
+## Evidence synthesis
+_Is a type of research method that allows researchers to bringt together all relevant information on a research question_
+
+## Bradford-Hill criteria
+
+## Measures of effect and association
+Relationships between exposures and outcomes are measured by measures of effect, which are statistics that estimate the direction and magnitude of associations among variables
+
+### Disease occurrence/frequency
+
+#### Prevalence
+_Occurence of existing cases_
+It is important that you have a representative sample otherwise you just have a proportion. 
+
+
+$$ \text{Prevalence} = {\text{number of existing cases} \over \text{number of people in a population at a definded persiod of time}} $$
+
+#### Incidence
+_Occurence of new cases_
+
+#### Incidence risk
+_The incidence when the nominator is the same as the denominator_
+
+$$ \text{Incidence risk} = {\text{number of new cases over a period of time} \over \text{number of people at risk at the beginning of the time period}} $$
+
+
+#### Incidence rate
+_The incidence whent the denominator is a time_
+$$ \text{Incidence rate} = {\text{number of new cases over a period of time} \over \text{number of people at risk during the time period}} $$
+
+#### Risk
+_likelihood, thatt an event of interest will occur in a subject in a spedivied period of follow-up time_
+The risk is a probability
+The risk must be between 0 and 1
+The denominator ist the population at the beginng
+
+
+#### Rates
+_Measures of the speed of something occuring of developing disease/events occurring in a population_
+A rate ist not a probability
+The rate is always non negative with no upper limit
+
+
+
+#### Mortality
+Mortality is a special measure of incidence rate
+The mortality is a rate and thus has time in the denominator (usually expressed as person years)
+
+
+$$ \text{Mortality} = {\text{number of deaths} \over \text{number of people per unit of time}} $$
+
+
+### Measures of effect
+- There are ratio measures (e.g., Odds Ratio, Risk Ratio, Rate Ratio) and difference measures (e.g., Risk difference, Attributable Risk, …)
+- Ratio measures are used in etiologic studies of health outcomes
+- Difference measures are used to quantify population impact & public health importance of risk or protective factors that determine health outcomes (size of problem)
+
+#### Odds ratio
+$$ \text{Odds ratio} = {\text{probability of event} \over 1- \text{probability of event}} $$
+
+
+
+#### Risk ratio
+$$ \text{Relative risk} = {\text{Incidence in exposed} \over \text{Incidence in the not-exposed}} $$
+
+
+### Rate ratio
+_ratio of two average rates_
+
+
+
+## Internal validity
+_Internal validity relates to risk of bias within a study_
+- See [Internal and external validity: can you apply research study results to your patients?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188693/)
+
+## External validity 
+_The extent to which the conclusions of an empicircal investigation remain true when different research methods and research paricipants or subjects are used._
+- External validity addresses generalizability or applicability of study results
+- Whether our sample is generalizable to the general population. 

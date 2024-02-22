@@ -1,0 +1,161 @@
+---
+title: "Step 10: Translate science into action"
+---
+
+> This steps includes the activities that you should do after you have done a systematic review
+
+## What happens after synthesis
+Scientific knowledge needs to be translated into action. It is the decision makers who take the decisions and not the scientific people.
+
+## What is important for decision makers
+- conceptual utility
+- instrumental utility
+- political utility 
+
+## Who to include für translating science
+- You could include a group of experts using a DELPHI Method to come up with consensus
+- You could include stakeholders
+
+
+
+
+## Frameworks
+
+
+### GRADE
+GRADE also has a say in evidence to decision framework
+
+
+### Framework: Evidence-informed polidy and practice framework (EIPP)
+[Original article: EIPP](https://www.researchgate.net/publication/7829121_Pathways_to_Evidence-Informed_Policy_and_Practice_A_Framework_for_Action)
+
+1. Prolbem identification
+1. evidence synthesis
+1. stakeholder engagement
+1. policy development
+1. impemantaion
+1. evaluation
+
+
+### Framework: Knowledge to action framework (KTA)
+[Original article](https://www.mcgill.ca/mqhrg/files/mqhrg/graham_2006_lost_in_knowledge_translation.pdf)
+[Medium-article: KTA](https://medium.com/knowledgenudge/kt-101-the-knowledge-to-action-framework-7fbe399723e8)
+
+
+### Framework: Policy triangle framework 
+[Original article](https://www.sciencedirect.com/science/article/pii/S2590229620300149)
+
+
+### Contextual evidence-informed policy framework (CEIP)
+[Original article](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020166)
+- It is propageted by WHO
+
+### Public health decision-making framework
+[Original article](https://link.springer.com/article/10.1007/s10728-015-0299-6)
+
+1. Identification: Identify relevant alternatives.
+2. Distinguishing: Distinguish relevant empirical differences between alternatives, including contingencies.
+3. Ranking: Rank, as far as possible, alternatives from best to worst.
+4. Evaluation: Make explicit, as far as possible, in what sense some alternatives are better than others.
+5. Documentation: Submit the result of the evaluation to a designated oversight institution.
+
+### Delibarative processes and citizen engagement models
+
+### Rapid evidence synthesis models (RES)
+
+
+## Relevance of reviews
+
+### Importance of end points 
+There is a hierarchy of outcomes for example for UAW for phosphate lowering drugs
+Mortality > Myocardial infaction > Flatulence
+
+### "Need to treat"
+- The number needed to treat is easy to grasp
+- For example: Treating 10 patients with tissue plasmoinogen activator within three hours will save one patient.
+
+### External validity
+- It is essential to consider if we can generalise the reviews findings to the "real world"
+
+
+## Evidence to decision conceptual map workflow
+
+[Moberg J et al. 2018: The GRADE Evidence to Decision (EtD) framework for health system and public health decisions](https://pubmed.ncbi.nlm.nih.gov/29843743/)
+
+
+## Criteria for health systems and public health decisions:
+
+### 1. Priority of the problem 
+- is the problem a priority? Are the consequences of the problem serious (that is, severe or important in terms of the potential benefits or savings)?
+- Is the problem urgent? [Not relevant for coverage decisions]
+- Is it a recognised priority (such as based on a political or policy decision)?
+
+### 2. Benefits and harms (desirable and undesirable anticipated effects)
+- Judgments for each outcome for which there is a desirable effect/undesirable effect – big challenge in public health: even if the certainty of a “harm” is low, health authorities should act
+
+### 3. Certainty of the evidence - What is the overall certainty of the evidence of effects? 
+- “GRADE quality of evidence” framework; more difficult to access on reviews with qualitative, gray sources of evidence
+
+### 4. Outcome importance
+- how much people value each of the main outcomes?
+
+### 5. Balance
+- Judgments regarding each of the four preceding criteria
+- People's values outcomes in future compared to outcomes in present
+- People’s attitudes towards undesirable or desirable effects (how risk averse/risk seeking population is)
+
+### 6. Resource use
+- Consider implementing alternatives; use of (public) funds; cost effectiveness
+
+### 7. Equity - Consideration of impacts on equity (horizontal and vertical) with the introduction of a policy
+- groups or settings that might be disadvantaged or will turn to be disadvantaged?
+- different baseline conditions across groups or settings that affect the effectiveness of the intervention?
+- ensure that inequities are reduced/are not increased
+
+### 8. Acceptability - In public health, consider multiple stakeholders and public opinion!
+- Acceptance of distribution of the benefits, harms and costs, and of trade of costs or undesirable effects in the short term for desirable effects (benefits) in the future
+- importance (value) attached to effects affect people’s autonomy?
+- disapprove of the intervention due moral principals (no maleficence, beneficence, or justice)
+
+### 9. Feasibility - Is the intervention or option sustainable?
+- Are there important barriers that are likely to limit the feasibility of implementing the intervention (option) or require consideration when implementing it
+- For coverage decisions:
+  - Is coverage of the intervention sustainable?
+  - Is it feasible to ensure appropriate use for approved indications, or is inappropriate use (indications that are not approved) an important concern?
+  - Is access to the intervention an important concern?
+  - Are there important legal or bureaucratic or legal constraints that that make it difficult or impossible to cover the intervention?
+
+
+## Ethical considerations
+- Usually synthesis dont need an ethical clearence  
+- Work with IJCME authorship
+- Avoid doing redundant reviews
+- Its unethical to produce rubbish
+
+### Four ethical considerations in medicine
+- Autonomy - you respect the wish of the patients
+- Justice - everybody has the same rights
+- Benevolence - you are actively trying to do good
+- Non-maleficiance - you are trying not to do bad things
+
+
+## Dissemination
+Plan you dissemination upfront
+
+### Possible ways to disseminate
+- Journal
+- Conferences
+- Policy dialogues
+- Press release
+- Social media
+
+### Policy brief 
+- Many journals now want a policy brief
+- Big organisations now publish directly policy briefs
+
+### Graphs
+- [Cates Plot](https://www.nntonline.net/visualrx/cates_plot/)
+
+
+### Policy dialogue
+- Go to panels 

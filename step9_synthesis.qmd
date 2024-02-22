@@ -1,0 +1,36 @@
+---
+title: "Step 9: Synthesise your results"
+---
+> In this step we will synthesize data narratively, using tables and figures as appropriate, to provide structured reporting. 
+
+
+## Types of synthesis which is a part the results section
+- Qualitative synthesis (or descriptive synthesis)
+- Quantitative synthesis
+- Subgroup analysis
+- Sensitivity analysis
+- Narrative synthesis
+
+### Qualitative synthesis
+- Description of the publications that you found. Authors, Countries, Types of studies.
+- Trying to bring the knowledge, understanding and interpreting the topic
+- Deeper understanding about your judgements about the evidence
+- Do you believe the evidence?
+- How could these judgements have affected your interpretation of the results?
+- What about missing evidence? Could this have affected your judgement? How
+could you handle that? Would you do a sensitivity analysis? What do you think
+about the interpretation of your findings given this factor?
+- Reasonableness of conducting a meta-analysis
+- Describe patterns in evidence: young people vs older group (subgroup
+analysis). Would this help interpret your findings?
+
+### Quantitative analysis
+- Do studies address the same question?
+- The studies you're going to include in your systematic review usually differ in one way or another
+- Each study is summarized by an estimate of effect (the result) (i.e., risk ratio)
+- The overall measure of the effect is a weighted average of the results of the individual studies
+- Weighted average: more weight if more information (mainly sample size); more information leads to increased precision
+
+
+### Evidence tables
+Evidence tables are summaries of the data extraction tables

@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "How to make a systematic review"
+  image: img/booktitle.png
+  page-navigation: true
+  navbar:
+    # style: "floating"
+    search: true
+    logo: img/logo.png
+    right:
+      - text: "Introduction"
+        menu:
+          - href: introduction_evidence.qmd
+            text: What is evidence?
+          - href: introduction_synthesis.qmd
+            text: What is a synthesis?
+      - text: "Steps"
+        menu:
+          - href: step1_rationale.qmd
+            text: 1 Rationale
+          - href: step2_setup.qmd
+            text: 2 Setup   
+          - href: step3_researchquestion.qmd
+            text: 3 Research question   
+          - href: step4_visualise.qmd
+            text: 4 Visualise 
+          - href: step5_searchstrategy.qmd
+            text: 5 Search strategy
+          - href: step6_dataextraction.qmd
+            text: 6 Data extraction
+          - href: step7_registerprotocoll.qmd
+            text: 7 Register
+          - href: step8_qualityassessment.qmd
+            text: 8 Quality assessment
+          - href: step9_synthesis.qmd
+            text: 9 Synthesis
+          - href: step10_aftersynthesis.qmd
+            text: 10 Translate into action
+      - text: "Appendix"
+        menu:
+          - href: appendix_terminology.qmd
+            text: Terminology
+          - href: appendix_readingpublications.qmd
+            text: How to read a publication
+          - href: appendix_templates.qmd
+            text: Templates
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+

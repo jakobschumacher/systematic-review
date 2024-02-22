@@ -1,0 +1,79 @@
+---
+title: "Evidence-based decision making"
+---
+
+## Evidence based medicine
+_Evidence based medicine (EBM) is the conscientious, explicit and judicious use of the current best external, scientific evidence to make medical care decisions for the individual_
+
+There  are three overlapping areas: clinical expertise, patients values and expectations and external knowledge 
+
+- EBM relies on evidence from well designed and conducted research studies
+- EBM recognizes the importance of healthcare professionals clinical experience, knowledge and skills
+- EBMG acknowledges the importance of considering individual patient values and expectations
+- Examples are the "AWMF Leitlinien" and the [IQWiG](https://www.iqwig.de/en/about-us/methods/evidence-based-medicine/)
+
+### Building consensus from evidence to recommendation
+- High quality of evidence -> "we recommend"
+- Moderate quality of evidence -> "we suggest"
+- Low quality of evidence -> "may be considered"
+
+### Criteria for evidence
+- Consistency of the results
+- Relevance of the endpoints 
+- Considerations of benefits and harms
+- Ethical, social, legal economic considerations 
+- Preference viewpoints of those affected
+- Applicability
+
+
+## Evidence based Public Health
+_Public Health endeavor in which there is informed, explicit and judicious use of the current best evidence in making decisions about the care of populations in the domain of health protection, disease prevention, health maintenance and promotion_
+
+1. Identification of problems
+1. Effective measurements
+
+
+The overlapping areas:
+1. Situtaion in the population, preferences of the people
+1. Public Health system
+1. Study results, scientific knowledge
+
+
+### Two main applications of evidence based Public Health
+1. evidence of effectiveneess of interventions
+1. defining health risk, identifying groups at special risk, elucidating causal pathways, aetiology, preventable risk factos and assessing the impacts of disease spread and the benevits of prevention
+
+
+## Evidence informed Policy making
+_An approach to policy decisions that aim to ensure that decision-making is well-informed by the best available research evidence_
+
+Useful evidences for evidence informed Policy making are
+- behavioral implementation research
+- evaluation
+- Modelling,
+- data analytics
+- qualitative insights
+- evidence synthesis
+- technology assessment/cost-effectiveness analysis and guidelines
+
+
+### Evidence plays a curcial role in Public Health decision making:
+- effectiveness assessment
+- resouce allocation
+- risk assessment
+- policy development
+- public trust
+- evaluation and monitoring
+- accountability,
+ethical consicderations
+- health equity 
+
+
+## Evidence-based vs. evidence informed
+- Evidence-based: guided by high quality scientific evidence 
+- Evidence-informed:draws on a combination of scientific evidence and contextual factors. So it recognizes the need for adaption to diverse settings. The decision-making process balances epmiprical evidence with real-world considerations and encourages flexibility 
+
+## Other areas
+- Evidence-based management
+- Evidence-based teaching
+- Aviation security

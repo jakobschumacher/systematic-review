@@ -1,0 +1,77 @@
+---
+title: "Step 5: Develope a search strategy"
+---
+
+> The search strategy consists of the identification of a database, the developement of appropriate search terms and their combination, translate the search terms to different databases, set the inclusion and exclusion criteria and to document the search strategy. The search strategy needs to combine sensitivity to identify relevant information and specificity to exclude irrelevant publications. The search strategy is important to reduce selection bias.
+
+
+## A. Identify relevant databases
+### Typical databases
+- [Medline](https://www.nlm.nih.gov/medline/medline_overview.html) (Pubmed): National Library of Medicine
+- [Cochrane library](https://www.cochranelibrary.com/) provides reliable and upt-to date information from seven different databases
+- [Embase](https://www.elsevier.com/products/embase) (Scopus)
+- [Web of science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/)
+- Google scholar (Counts as grey literature)
+
+### Grey literature
+It can be difficult to find grey literature. You need to have experts in the field. Typical resources are found on websites of agencies. 
+
+### Tips
+- Start with Pubmed to get a feeling
+- Look at the tutorials of the search engines 
+- For google scholar you could say: "sort by relevance" then say you screen a maximum of 500. Second rulse would be to stop if you have not had a relevant hit in the last 50 entries.
+
+
+## B. Develope search terms
+1. You need an search expert and a top expert. 
+1. You need two people to do the research
+1. Break up your research question
+1. Find terms 
+1. Find alternatives for example with MESH or use the cochrane MESH Browser
+1. Truncate the terms and use wildcards
+1. Use wildcards for woman and women wom?n
+1. Use boolean operators AND, OR, NOT
+1. Check for errors
+1. Test and repeat
+
+
+## C. Translate the search strategy
+-   Translate the search syntax
+-   A problem with MESH is, that it takes time to set the MESH terms
+-   There are translations resources: [Polyglot search tool](https://sr-accelerator.com/#/replicant)
+
+## D. Set inclusion and exclusion criteria
+1. Limit by evidence hierarchy
+1. Limit by publication date
+1. Limit by article language (it often is not a good idea)
+1. Limit by article type
+1. Limit by text availability
+
+
+### Deal with too many or too little results
+There may be a problem with too much or too little results. You shouldn't change the research question but rather change inclusion and exclusion criteria. 
+
+
+#### Too many hits
+- Reduce text words
+- Use filter options (time span,
+publication types, etc.)
+- Consider less minors aspects
+- Use narrower terms (MeSH)
+
+#### Too little hits
+- Extend text words (use synonyms or
+truncation)
+- Use broader terms (MeSH)
+- Check your search logic
+- Check misspelling
+- Deselect filters
+- Check "related articles"
+
+
+## E. Document
+- Your search terms
+- Your limits
+- Your inclusion and exclusion criteria for example with a table
+
+

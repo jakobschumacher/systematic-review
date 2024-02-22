@@ -1,0 +1,47 @@
+---
+title: "Step 6: Screen and extract data"
+---
+
+> In the screening process you look for studies that dont fit your selection criteria. In the data extraction you decide on the variables that you want to capture, extract the eligible studies, import it into your software and extract the relevant data.
+
+
+# What you do in data extraction
+- You decide on the variables that you want to capture
+- You export the search results from the databases
+- You import the search results in a reference manager or a specialized tool
+- You look through each publication and get out the variables that you want
+
+# Anticipate problems
+1. Disagreement between reviewers when extracting data.
+2. Outcome data being reported in different ways, which are not necessarily
+suitable for meta-analysis.
+3. Including estimates and alternative measures.
+4. Risk of double counting study participants.
+5. Risk of human error, inconsistency and subjectivity when extracting data.
+6. Ambiguous or incomplete data.
+7. Extracting the right amount of data
+
+
+# Citation manager
+- [Zotero](https://www.zotero.org/)
+- [Jabref](https://www.jabref.org/)
+- [Endnote](https://endnote.com/de/)
+- [Mendeley Referencemanager](https://www.mendeley.com/reference-management/reference-manager)
+
+# Specialized tools
+Instead of a citation manager you can use specific tools 
+- [Rayyan](https://www.rayyan.ai/)
+- [Covidence](https://www.covidence.org/)
+
+
+# AI-Tools
+- [Elicit](https://elicit.com/)
+- [Consensus](https://consensus.app/)
+- [Litmaps](https://www.litmaps.com/)
+- [scite](https://scite.ai/)
+
+
+# Document
+- Outline the information that will be extracted
+- Details of any software to be used for recording the data
+- Procedure for data extraction

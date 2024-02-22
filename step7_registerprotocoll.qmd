@@ -1,0 +1,11 @@
+---
+title: "Step 5: Register your protocol"
+---
+
+## Why you should register your study protocols for systematic reviews should be done to
+- make sure you stick to the rules
+- inform others
+- plan for publication
+
+## Registration sites
+[PROSPERO](https://www.crd.york.ac.uk/prospero/#aboutregpage)

@@ -1,0 +1,88 @@
+---
+title: "Step 3: Formulate your research question"
+---
+
+> The identification of the best evidence requires the construction of an appropriate research question and review of the literature. Matching questions with appropriate study design and review type is a key step in conducting research Well-formulated research questions will guide many aspects of conducting reviews PICO(S) scheme helps defining a specific research question for systematic reviews
+
+
+
+## How to find a research question
+
+1. Find your topic
+1. Conduct a preliminary literature search
+1. Write a draft of your question
+1. Check for PICO and FINER (or other schemes)
+1. Check with another literature search 
+1. Check in registries  
+1. Check with stakeholder/colleagues
+
+## Tools to help formulate a research question
+
+-   [PICO](https://www.cochranelibrary.com/about-pico)
+-   PEO
+-   SPIDER
+-   PCC
+
+### PICOS
+Its a commonly used tool  
+- Patient/population/problem 
+- Intervention 
+- comparison 
+- Outcome
+- Setting
+
+
+### Scheme: FINER
+Feasible Interesting Novel Ethical Relevant
+
+### Scheme: MAPS
+Managable Appropriate Potential value and publishability Systematic
+
+
+## Types of research question
+```{r,  echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl <- "
+|Question |Type|
+|---|---|
+|What proportion of the population is newly diagnosed with this disease each year?|Incidence|
+|What proportion of the population is currently living with this disease? |Prevalence|
+|What can be done to treat this disease? |Therapy|
+|Will early detection of this disease make a difference in a person‘s life? |Screening|
+|How good is this test at detecting the disease?| Diagnostic accuracy|
+|What is the likely outcome of this disease? |Prognosis|
+|Can there be any negative effects (of an intervention)? |Harm|
+|How can this disease be prevented? |Etiology|
+"
+cat(tabl)
+```
+
+
+## Characteristics of good research question
+
+The most successful research questions are narrowly focused and carefully defined but are important parts of a broad-ranging, complex problem.
+
+A good research question is beneficial as it 
+
+* details the problem statement 
+* further describes and refines the issue under study 
+* adds focus to the problem statement 
+* guides data collection and analysis 
+* sets context of research
+
+## Example
+
+_In ZIKV-free infants or children, does breastfeeding (any or exclusive) from a ZIKV-infected lactating mother, compared to not breastfeeding, result in evidence of ZIKV infection in the infant?_
+
+## Check with stakeholders and colleagues
+
+Best practice is to engage stakeholder including users in setting the question possibly through an advisory group 
+
+- Does the review question sound interesting and useful 
+- What interventions should be included 
+- Which population should be included 
+- Are there subgroups 
+- What types of outcomes should the review include?
+
+
+## Document 
+Your research question should be documented in your protocol. The research question should also be used for the title.

@@ -1,0 +1,76 @@
+---
+title: "Step 2: Setup your review"
+---
+
+> In this step we prepare everything, that we need for the systematic review. Especially we prepare the review protocol
+
+## Find your team
+It would be good to have the following people on board
+- Specialist for the content
+- Specialist for systematic reviews
+- Librarian
+- Statistician (if you plan on making a Meta-Analysis)
+
+### Authorship
+It can be wise to make sure who is going to be the first and the last author and who will be in the middle
+
+## Plan your ressources
+- A review takes time from 3 months to a year or longer
+
+## Prepare a review protocol
+_The review protocol is a part of a study or systematic review, that gives the framework of the research question, search strategy, selection criteria and procedures, quality assessment checklist, data extraction and data synthesis strategy and timeframe. The review protocol is a living document until it is registered. It is used to document the process. The review protocol is later turned into the review._
+
+- A review protocol is filled along the way
+- You can use a [review template of the course](documents/template_for_review_protocol.docx) 
+- You can use a [review template from the university library](https://guides.lib.ua.edu/c.php?g=1135040&p=8286355) 
+- You can make your own template starting from prospero or cochrane
+
+### a. Title
+The typical title of systematic reviews follows your research question
+
+A typical title follows the PICO Scheme: *\[Intervention\] for \[Improving/Reducing/Increasing\] \[Outcome\] \[Compared to other intervention\] in \[Population\]: a systematic review of \[study design\]*
+
+For example: *Transmission of Zika virus through breast milk and other breastfeeding-related bodily-fluids: a systematic review of evidence*
+
+### b. Background
+
+*   Important characteristics: What are the important population and/or disease characteristics (diagnostic criteria, epidemiology, aetiology, prognosis, etc.)
+*   Relevance: Does the review topic have important implications for health (individual and/or public), as well as health care, policy and research)?
+*   Rationale: Does the evidence (including existing systematic reviews) fail to answer the review question, and why?
+*   Justification: Is the need for the review justified in the light of the potential health implications and current limitations of the evidence base?
+*   Specification: What are the PICO(S) components of the review question?
+
+### c. Methods
+
+*   Search strategy
+*   Which electronic databases will you search?
+*   What are the key search terms?
+*   What other sources will you search?
+*   Selection criteria
+*   What are the inclusion and exclusion criteria?
+*   Will you impose any additional limits, e.g., language, publication type, study design?
+*   How will study selection be performed?
+*   Quality assessment
+*   What criteria will be used to assess methodological quality?
+*   How will quality assessment be performed? Data extraction
+*   What are the key data to be extracted?
+*   How will data extraction be performed, and how will extract data be presented?
+*   Data synthesis
+*   How will data be combined (statistical or narrative), and why?
+*   What are the potential sources of effect heterogeneity and how will they be assessed?
+
+### d. Process
+
+What resources are required to conduct the review, and are they available? 
+
+* Relevant expertise 
+* Computing facilities 
+* Research databases 
+* Bibliographic software 
+* Statistical software How will the findings of the review be disseminated? 
+* Target audience 
+* Publication type 
+* Communication media
+
+
+

@@ -1,0 +1,15 @@
+---
+title: "Overview over the steps"
+---
+
+
+## Preliminary steps
+- Is a review required
+- Are there existing or ongoing ones
+- If one is required the next step is to establish a review team to develop the review protocol
+- Setup a review team
+
+## Go through the steps
+[](img/steps.png)
+
+

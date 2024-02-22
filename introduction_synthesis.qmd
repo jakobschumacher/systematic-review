@@ -1,0 +1,42 @@
+---
+title: "Evidence synthesis and different types of reviews"
+---
+
+
+> Evidence syntheses combine data from multiple sources, most commonly from existing research studies, to provide an overall summary of current knowledge. 
+
+# Evidence syntheses vs primary study
+There is a difference between syntheses and primary studies. Syntheses sum up primary studies. But there are also synopses of syntheses. 
+
+
+## Study designs
+|Studytype|Scope|Quality|
+|---|---|---|
+|Direct observation|Direct measurement|highest|
+|Meta-analysis|Synopses of syntheses|high|
+|Systematic review|Syntheses|high|
+|Evidence syntheses|Syntheses|high|
+|RCT|Experimental|medium|
+|Laboratory|Experimental|medium|
+|Cohort|Observational|medium|
+|Case control|Observational|medium|
+|Cross sectional|Observational|medium|
+|Case series|Descriptive|medium|
+|Qualitative studies|Primary study|medium|
+|Systematic expert opinion|Primary study|medium|
+|Unystematic expert opinion|Primary study|medium|
+
+
+ 
+## A more detailled listing of evidence synthesis
+- Rapid review: Rapidly summarize and synthesize existing evidence often for time-sensitive decision-making
+- Literature review: Provide a broad overview of existing literature on a topic. 
+- Scoping review: Map and asses the extent of existing research on a broad topic often without specific research questions to identify key concepts, sources and gaps
+- Systematic review: Answer a specific research question by systematically collecting, evaluating and synthesizing existing research studies
+- Systematic review with meta-analysis: A meta-analysis is a quantitative, formal and epidemiological study design used to systematically assess the results of previous research to derive conclusions. 
+- Umbrella review: Synthesize findings from multiple systematic reviews and meta-analyses on a specific topic 
+- Living review: A review article that is updated at intervals to reflect the latest research
+
+
+
+

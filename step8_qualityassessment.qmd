@@ -1,0 +1,183 @@
+---
+title: "Step 8: Asses the quality"
+---
+
+> Carful and systematic appraisal the outcome of the single studies used in the systematic review judge its trustworthiness, value and relevance in a particular context and in general the internal validity and external validity and the relevance. The grading asses the body of evidence of all studies._
+
+## Why should we appraise the single studies
+- Not all literature is of satisfactory methodological rigour
+- Just because it is published does not mean it is methodologically sound
+- You have to assess validity
+- What implications does the study have for your practice
+- Can the results be applied to your organisation
+
+## What to asses to appraisal a study according to the course
+- Internal validity
+  - Biases
+  - Statistical errors
+- External validity
+  - Generalizability
+  - Choice of outcome
+
+## What to asse to appraise a study according to the author of this book
+- Objectivity
+- Validity
+- Reliability
+
+## Appraisal for specific types of studies
+### Appraise a systematic review
+- Clearly-focused research question
+- Inclusion of the right type of studies
+- Identification of all relevant studies
+- Assessment of the quality of the included studies
+- Rationale for the combination of studies
+- Reporting of study results
+- Precision of study results
+- Application of results to local population
+- Consideration of all outcomes
+- Policy or practice change as a result of evidence
+
+### Appraise an RCTs
+- Criteria for assessment of risk
+of bias in RCTs
+- Was the random allocation done adequately and methodologically sound?
+- Was the allocation adequately concealed?
+- Were the groups similar at the outset of the study with regards to participant
+characteristics and prognostic factors, e.g. severity of disease?
+- Were the care providers, participants and outcome assessors blind to treatment
+allocation (e.g. single-blind, double-blind)?
+- Were there any unexpected imbalances in drop-outs between groups?
+- Is there any suspicion that the authors measured more outcomes than they reported?
+- Did the analysis include an intention to treat analysis?
+- Were appropriate methods used to account for missing data?
+- and what is the potential impact on the evidence if any of this criteria were not met?
+
+### Appraise a cohort Study
+- Were the groups and the distribution of prognostic factors described comprehensively?
+- Were the groups assembled at a similar point in their disease progression?
+- Was the intervention/treatment ascertained reliably and standardized?
+- Were the groups comparable with regards to important confounders?
+- Was the analysis done stratified or adjusted for these confounders?
+- Was a dose-response relationship between intervention and outcome investigated?
+- Was the outcome assessment blind to exposure status?
+- Was follow-up long enough for outcomes to occur?
+- What proportion of the cohort was followed-up?
+- Were drop-out rates and reasons similar across intervention and unexposed groups?
+
+
+### Appraise a Case-Control Study
+- Was the case definition explicit?
+- Has the disease state of the cases been assessed standardized and validated?
+- Were the controls randomly selected from the source population of the cases?
+- How comparable are the exposed and unexposed with respect to potential confounders?
+- Were interventions and exposures assessed in the same way for cases and controls?
+- How was the response rate defined?
+- Were the response rates and reasons for non-response the same for both groups?
+- Is it possible that over-matching has occurred such that cases and controls were
+matched on factors related to exposure?
+- Was an appropriate statistical analysis used (matched or unmatched)?
+
+
+### Appraise an economic evaluations
+- Was there a well-defined research question?
+- Was there comprehensive description of alternative scenarios?
+- Were all relevant costs and outcomes for each alternative identified?
+- Has clinical effectiveness been established?
+- Were costs and outcomes measured accurately?
+- Were costs and outcomes valued credibly?
+- Were costs and outcomes adjusted for differential timing?
+- Has an incremental analyses of costs been conducted and consequences discussed?
+- Were sensitivity analyses done to investigate uncertainty in cost estimates or consequences?
+- How far do study results include all issues of concern to users?
+- Are the results generalizable to the setting of interest in the review?
+
+## Bias
+
+### Biases accoring to Miguel Hernan
+1. Confounding
+2. Selection bias
+3. Measurement bias
+- see [What if by Hernan](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf)
+
+
+### Biases according to the course
+1. Selection bias
+2. Allocation bias
+3. Confounding (e.g. randomization not done properly)
+4. Blinding (detection bias)
+5. Data collection methods
+6. Withdrawals and drop-outs
+7. Statistical analysis
+8. Intervention integrity
+
+
+## Tools
+- There are different tools to appraise the quality of a study
+- The [equator network](https://www.equator-network.org/) collects tools
+
+### Strobe 
+- Critical appraisal of observational studies
+
+### RoB2
+- Critical appraisal of randomized controlled trials
+
+### Prisma
+- Critical appraisal of systematic reviews
+
+### Amstar
+- Critical appraisal tool for systematic reviews. 
+- Currently there is version 2
+- Amstar enables a quantification of the appraisal
+
+
+## What to do with the quality assessment within a systematic review
+- You could use it for inclusion and exclusion criteria
+- You could use it for the discussion
+
+
+## Grading
+- Quality of the evidence is not the assessment of the likelihood of an outcome, but the confidence that the assessment is correct!
+- Grading is the assessment of all the studies that you included to say something on the body of evidence
+
+
+## Tools for grading evidence 
+
+### GRADE
+_Grading of recommendations development, assessment and evaluation_
+- Framework to rate the quality of evidence identified by the review
+- The quality of evidence = "extent of confidence that the estimates of the effect are correct"
+- GRADE is a transparent and reproducible system
+- Grade looks at study design, study quality, inconsistency of results, imprecision of effects, publication bias
+- GRADE is suitable for systematic reviews
+
+
+
+### Application of GRADE
+1. Initial rating of the quality of evidence in a domain
+1. Assessment of the risk of bias of the body of evidence
+1. Assessment of the additional factors that can reduce the quality 
+1. Assessment of factors, that can increase the quality of evidence
+1. Final rating of quality of evidence in a domain
+
+#### Grading output
+
+|Grade| Signs| Definition|
+|---|---|---|
+|High|⨁⨁⨁⨁|We are very confident that the true effect lies close to that of the estimate of the effect.|
+|Moderate|⨁⨁⨁◯|We are moderately confident in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different |
+|Low|⨁⨁◯◯|Our confidence in the effect estimate is limited: The true effect may be substantially different from the estimate of the effect.
+|Very Low|⨁◯◯◯|We have very little confidence in the effect estimate: The true effect is likely to be substantially different from the estimate of effect|
+
+### NICE/SIGN
+- It has a focus on clinical guidelines
+- It does not grade the strength of recommendations
+- It accepts more types of evidence than GRADE
+
+### PRECEPT
+- It is specifically designed for infectious disease epidemiology
+- It rates evidence in four domains: disease burden, risk factors, diagnostics and intervention
+- See [Original Publication by Thomas Harder: _PRECEPT an evidence assessment framework for infectious disease epidemiology, prevention and control_](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.40.16-00620)
+
+### Literature
+- See [ECDC Pulbication: Evidence-based methodologies for public health](https://www.ecdc.europa.eu/en/publications-data/evidence-based-methodologies-public-health)
+

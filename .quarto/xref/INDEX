@@ -1,0 +1,56 @@
+{
+  "about.qmd": {
+    "about.html": "da400f07"
+  },
+  "appendix_readingpublications.qmd": {
+    "appendix_readingpublications.html": "c526cea7"
+  },
+  "appendix_templates.qmd": {
+    "appendix_templates.html": "d471897f"
+  },
+  "appendix_terminology.qmd": {
+    "appendix_terminology.html": "4e65cb04"
+  },
+  "index.qmd": {
+    "index.html": "68348636"
+  },
+  "introduction_evidence.qmd": {
+    "introduction_evidence.html": "0f4906f6"
+  },
+  "introduction_synthesis.qmd": {
+    "introduction_synthesis.html": "e547c7ac"
+  },
+  "step10_aftersynthesis.qmd": {
+    "step10_aftersynthesis.html": "52c856cc"
+  },
+  "step1_rationale.qmd": {
+    "step1_rationale.html": "7e067511"
+  },
+  "step2_setup.qmd": {
+    "step2_setup.html": "b2042d64"
+  },
+  "step3_researchquestion.qmd": {
+    "step3_researchquestion.html": "6a965801"
+  },
+  "step4_visualise.qmd": {
+    "step4_visualise.html": "4ffc93d4"
+  },
+  "step5_searchstrategy.qmd": {
+    "step5_searchstrategy.html": "0e497e64"
+  },
+  "step6_dataextraction.qmd": {
+    "step6_dataextraction.html": "65298e8a"
+  },
+  "step7_registerprotocoll.qmd": {
+    "step7_registerprotocoll.html": "94c72bc9"
+  },
+  "step8_qualityassessment.qmd": {
+    "step8_qualityassessment.html": "c09c8fff"
+  },
+  "step9_synthesis.qmd": {
+    "step9_synthesis.html": "a1057c25"
+  },
+  "synthesissteps.qmd": {
+    "synthesissteps.html": "0378cd50"
+  }
+}

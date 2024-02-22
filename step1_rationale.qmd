@@ -1,0 +1,64 @@
+---
+title: "Step 1: Think about the rationale"
+---
+
+> In this step we think about if we want to conduct a systematic review
+
+## Why should we do an evidence synthesis
+- Identify gaps
+- establish an evidence base for best-practice guidance
+- help inform policymakers and practitioners
+
+
+## Topic
+For the creation of a systematic review you obviously need a topic
+Possible topics for systematic reviews
+- Conditions, categories and measures
+- Rates and trends
+- Correlates
+- Predictors
+- Causes and effects
+- Cost effectiveness
+- Comparative effectiveness
+- Generalizability
+
+
+## Determine the type of review
+You need to think about what type of synthesis you want to do.
+- Depends on time, resources, aim, depth required
+
+### Systematic review
+_A systematic review attempts to identify, appraise and synthesize all the empirical evidence that meets pre-specified eligibility criteria to answer a specific research question. The purpose of a systematic review is to provide a meticulous summary of all available primary evidence on a research question._
+
+Key charateristicts:
+- A clearly stated set of objectives
+- Pre-defined eligibility criteria for studies
+- A explicit, reproducible methodology
+- A systematic search that attempts to identify all studies that would meet the eligibility
+- Assessment of the validity of the findings
+- A systematic presentation and synthesis of the characteristics and findings
+
+
+## Problems of synthesis studies
+
+### Heterogeneity
+- Synthesis studies suffer from heterogeneity, that is the differences between the studies 
+
+### Publication bias 
+- All synthesis studies have a publication bias to some degree
+- You can use a funnel plot to have a look 
+
+## Sensitivity analysis
+Usually certain studies with lower quality are exluded. Does this change the results
+
+
+## Look for existing reviews and asses their quality
+Look on pubmed/cochrane and so on
+
+## Think about the potential use of the synthesis
+
+        
+### Example types of outputs of evidence synthesis
+- Systematic reviews
+- Policy brief
+- Clinical practice guidelines
