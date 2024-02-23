@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.353">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>How to make a systematic review - Step 8: Asses the quality</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./img/logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">How to make a systematic review</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-introduction" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Introduction</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-introduction">    
+        <li>
+    <a class="dropdown-item" href="./introduction_evidence.html" rel="" target="">
+ <span class="dropdown-text">What is evidence?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./introduction_synthesis.html" rel="" target="">
+ <span class="dropdown-text">What is a synthesis?</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-steps" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Steps</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-steps">    
+        <li>
+    <a class="dropdown-item" href="./step1_rationale.html" rel="" target="">
+ <span class="dropdown-text">1 Rationale</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step2_setup.html" rel="" target="">
+ <span class="dropdown-text">2 Setup</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step3_researchquestion.html" rel="" target="">
+ <span class="dropdown-text">3 Research question</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step4_visualise.html" rel="" target="">
+ <span class="dropdown-text">4 Visualise</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step5_searchstrategy.html" rel="" target="">
+ <span class="dropdown-text">5 Search strategy</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step6_dataextraction.html" rel="" target="">
+ <span class="dropdown-text">6 Data extraction</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step7_registerprotocoll.html" rel="" target="">
+ <span class="dropdown-text">7 Register</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step8_qualityassessment.html" rel="" target="">
+ <span class="dropdown-text">8 Quality assessment</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step9_synthesis.html" rel="" target="">
+ <span class="dropdown-text">9 Synthesis</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./step10_aftersynthesis.html" rel="" target="">
+ <span class="dropdown-text">10 Translate into action</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-appendix" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Appendix</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-appendix">    
+        <li>
+    <a class="dropdown-item" href="./appendix_terminology.html" rel="" target="">
+ <span class="dropdown-text">Terminology</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./appendix_readingpublications.html" rel="" target="">
+ <span class="dropdown-text">How to read a publication</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./appendix_templates.html" rel="" target="">
+ <span class="dropdown-text">Templates</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#why-should-we-appraise-the-single-studies" id="toc-why-should-we-appraise-the-single-studies" class="nav-link active" data-scroll-target="#why-should-we-appraise-the-single-studies">Why should we appraise the single studies</a></li>
+  <li><a href="#what-to-asses-to-appraisal-a-study-according-to-the-course" id="toc-what-to-asses-to-appraisal-a-study-according-to-the-course" class="nav-link" data-scroll-target="#what-to-asses-to-appraisal-a-study-according-to-the-course">What to asses to appraisal a study according to the course</a></li>
+  <li><a href="#what-to-asse-to-appraise-a-study-according-to-the-author-of-this-book" id="toc-what-to-asse-to-appraise-a-study-according-to-the-author-of-this-book" class="nav-link" data-scroll-target="#what-to-asse-to-appraise-a-study-according-to-the-author-of-this-book">What to asse to appraise a study according to the author of this book</a></li>
+  <li><a href="#appraisal-for-specific-types-of-studies" id="toc-appraisal-for-specific-types-of-studies" class="nav-link" data-scroll-target="#appraisal-for-specific-types-of-studies">Appraisal for specific types of studies</a>
+  <ul class="collapse">
+  <li><a href="#appraise-a-systematic-review" id="toc-appraise-a-systematic-review" class="nav-link" data-scroll-target="#appraise-a-systematic-review">Appraise a systematic review</a></li>
+  <li><a href="#appraise-an-rcts" id="toc-appraise-an-rcts" class="nav-link" data-scroll-target="#appraise-an-rcts">Appraise an RCTs</a></li>
+  <li><a href="#appraise-a-cohort-study" id="toc-appraise-a-cohort-study" class="nav-link" data-scroll-target="#appraise-a-cohort-study">Appraise a cohort Study</a></li>
+  <li><a href="#appraise-a-case-control-study" id="toc-appraise-a-case-control-study" class="nav-link" data-scroll-target="#appraise-a-case-control-study">Appraise a Case-Control Study</a></li>
+  <li><a href="#appraise-an-economic-evaluations" id="toc-appraise-an-economic-evaluations" class="nav-link" data-scroll-target="#appraise-an-economic-evaluations">Appraise an economic evaluations</a></li>
+  </ul></li>
+  <li><a href="#bias" id="toc-bias" class="nav-link" data-scroll-target="#bias">Bias</a>
+  <ul class="collapse">
+  <li><a href="#biases-accoring-to-miguel-hernan" id="toc-biases-accoring-to-miguel-hernan" class="nav-link" data-scroll-target="#biases-accoring-to-miguel-hernan">Biases accoring to Miguel Hernan</a></li>
+  <li><a href="#biases-according-to-the-course" id="toc-biases-according-to-the-course" class="nav-link" data-scroll-target="#biases-according-to-the-course">Biases according to the course</a></li>
+  </ul></li>
+  <li><a href="#tools" id="toc-tools" class="nav-link" data-scroll-target="#tools">Tools</a>
+  <ul class="collapse">
+  <li><a href="#strobe" id="toc-strobe" class="nav-link" data-scroll-target="#strobe">Strobe</a></li>
+  <li><a href="#rob2" id="toc-rob2" class="nav-link" data-scroll-target="#rob2">RoB2</a></li>
+  <li><a href="#prisma" id="toc-prisma" class="nav-link" data-scroll-target="#prisma">Prisma</a></li>
+  <li><a href="#amstar" id="toc-amstar" class="nav-link" data-scroll-target="#amstar">Amstar</a></li>
+  </ul></li>
+  <li><a href="#what-to-do-with-the-quality-assessment-within-a-systematic-review" id="toc-what-to-do-with-the-quality-assessment-within-a-systematic-review" class="nav-link" data-scroll-target="#what-to-do-with-the-quality-assessment-within-a-systematic-review">What to do with the quality assessment within a systematic review</a></li>
+  <li><a href="#grading" id="toc-grading" class="nav-link" data-scroll-target="#grading">Grading</a></li>
+  <li><a href="#tools-for-grading-evidence" id="toc-tools-for-grading-evidence" class="nav-link" data-scroll-target="#tools-for-grading-evidence">Tools for grading evidence</a>
+  <ul class="collapse">
+  <li><a href="#grade" id="toc-grade" class="nav-link" data-scroll-target="#grade">GRADE</a></li>
+  <li><a href="#application-of-grade" id="toc-application-of-grade" class="nav-link" data-scroll-target="#application-of-grade">Application of GRADE</a></li>
+  <li><a href="#nicesign" id="toc-nicesign" class="nav-link" data-scroll-target="#nicesign">NICE/SIGN</a></li>
+  <li><a href="#precept" id="toc-precept" class="nav-link" data-scroll-target="#precept">PRECEPT</a></li>
+  <li><a href="#literature" id="toc-literature" class="nav-link" data-scroll-target="#literature">Literature</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Step 8: Asses the quality</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<blockquote class="blockquote">
+<p>Carful and systematic appraisal the outcome of the single studies used in the systematic review judge its trustworthiness, value and relevance in a particular context and in general the internal validity and external validity and the relevance. The grading asses the body of evidence of all studies._</p>
+</blockquote>
+<section id="why-should-we-appraise-the-single-studies" class="level2">
+<h2 class="anchored" data-anchor-id="why-should-we-appraise-the-single-studies">Why should we appraise the single studies</h2>
+<ul>
+<li>Not all literature is of satisfactory methodological rigour</li>
+<li>Just because it is published does not mean it is methodologically sound</li>
+<li>You have to assess validity</li>
+<li>What implications does the study have for your practice</li>
+<li>Can the results be applied to your organisation</li>
+</ul>
+</section>
+<section id="what-to-asses-to-appraisal-a-study-according-to-the-course" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-asses-to-appraisal-a-study-according-to-the-course">What to asses to appraisal a study according to the course</h2>
+<ul>
+<li>Internal validity
+<ul>
+<li>Biases</li>
+<li>Statistical errors</li>
+</ul></li>
+<li>External validity
+<ul>
+<li>Generalizability</li>
+<li>Choice of outcome</li>
+</ul></li>
+</ul>
+</section>
+<section id="what-to-asse-to-appraise-a-study-according-to-the-author-of-this-book" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-asse-to-appraise-a-study-according-to-the-author-of-this-book">What to asse to appraise a study according to the author of this book</h2>
+<ul>
+<li>Objectivity</li>
+<li>Validity</li>
+<li>Reliability</li>
+</ul>
+</section>
+<section id="appraisal-for-specific-types-of-studies" class="level2">
+<h2 class="anchored" data-anchor-id="appraisal-for-specific-types-of-studies">Appraisal for specific types of studies</h2>
+<section id="appraise-a-systematic-review" class="level3">
+<h3 class="anchored" data-anchor-id="appraise-a-systematic-review">Appraise a systematic review</h3>
+<ul>
+<li>Clearly-focused research question</li>
+<li>Inclusion of the right type of studies</li>
+<li>Identification of all relevant studies</li>
+<li>Assessment of the quality of the included studies</li>
+<li>Rationale for the combination of studies</li>
+<li>Reporting of study results</li>
+<li>Precision of study results</li>
+<li>Application of results to local population</li>
+<li>Consideration of all outcomes</li>
+<li>Policy or practice change as a result of evidence</li>
+</ul>
+</section>
+<section id="appraise-an-rcts" class="level3">
+<h3 class="anchored" data-anchor-id="appraise-an-rcts">Appraise an RCTs</h3>
+<ul>
+<li>Criteria for assessment of risk of bias in RCTs</li>
+<li>Was the random allocation done adequately and methodologically sound?</li>
+<li>Was the allocation adequately concealed?</li>
+<li>Were the groups similar at the outset of the study with regards to participant characteristics and prognostic factors, e.g.&nbsp;severity of disease?</li>
+<li>Were the care providers, participants and outcome assessors blind to treatment allocation (e.g.&nbsp;single-blind, double-blind)?</li>
+<li>Were there any unexpected imbalances in drop-outs between groups?</li>
+<li>Is there any suspicion that the authors measured more outcomes than they reported?</li>
+<li>Did the analysis include an intention to treat analysis?</li>
+<li>Were appropriate methods used to account for missing data?</li>
+<li>and what is the potential impact on the evidence if any of this criteria were not met?</li>
+</ul>
+</section>
+<section id="appraise-a-cohort-study" class="level3">
+<h3 class="anchored" data-anchor-id="appraise-a-cohort-study">Appraise a cohort Study</h3>
+<ul>
+<li>Were the groups and the distribution of prognostic factors described comprehensively?</li>
+<li>Were the groups assembled at a similar point in their disease progression?</li>
+<li>Was the intervention/treatment ascertained reliably and standardized?</li>
+<li>Were the groups comparable with regards to important confounders?</li>
+<li>Was the analysis done stratified or adjusted for these confounders?</li>
+<li>Was a dose-response relationship between intervention and outcome investigated?</li>
+<li>Was the outcome assessment blind to exposure status?</li>
+<li>Was follow-up long enough for outcomes to occur?</li>
+<li>What proportion of the cohort was followed-up?</li>
+<li>Were drop-out rates and reasons similar across intervention and unexposed groups?</li>
+</ul>
+</section>
+<section id="appraise-a-case-control-study" class="level3">
+<h3 class="anchored" data-anchor-id="appraise-a-case-control-study">Appraise a Case-Control Study</h3>
+<ul>
+<li>Was the case definition explicit?</li>
+<li>Has the disease state of the cases been assessed standardized and validated?</li>
+<li>Were the controls randomly selected from the source population of the cases?</li>
+<li>How comparable are the exposed and unexposed with respect to potential confounders?</li>
+<li>Were interventions and exposures assessed in the same way for cases and controls?</li>
+<li>How was the response rate defined?</li>
+<li>Were the response rates and reasons for non-response the same for both groups?</li>
+<li>Is it possible that over-matching has occurred such that cases and controls were matched on factors related to exposure?</li>
+<li>Was an appropriate statistical analysis used (matched or unmatched)?</li>
+</ul>
+</section>
+<section id="appraise-an-economic-evaluations" class="level3">
+<h3 class="anchored" data-anchor-id="appraise-an-economic-evaluations">Appraise an economic evaluations</h3>
+<ul>
+<li>Was there a well-defined research question?</li>
+<li>Was there comprehensive description of alternative scenarios?</li>
+<li>Were all relevant costs and outcomes for each alternative identified?</li>
+<li>Has clinical effectiveness been established?</li>
+<li>Were costs and outcomes measured accurately?</li>
+<li>Were costs and outcomes valued credibly?</li>
+<li>Were costs and outcomes adjusted for differential timing?</li>
+<li>Has an incremental analyses of costs been conducted and consequences discussed?</li>
+<li>Were sensitivity analyses done to investigate uncertainty in cost estimates or consequences?</li>
+<li>How far do study results include all issues of concern to users?</li>
+<li>Are the results generalizable to the setting of interest in the review?</li>
+</ul>
+</section>
+</section>
+<section id="bias" class="level2">
+<h2 class="anchored" data-anchor-id="bias">Bias</h2>
+<section id="biases-accoring-to-miguel-hernan" class="level3">
+<h3 class="anchored" data-anchor-id="biases-accoring-to-miguel-hernan">Biases accoring to Miguel Hernan</h3>
+<ol type="1">
+<li>Confounding</li>
+<li>Selection bias</li>
+<li>Measurement bias</li>
+</ol>
+<ul>
+<li>see <a href="https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf">What if by Hernan</a></li>
+</ul>
+</section>
+<section id="biases-according-to-the-course" class="level3">
+<h3 class="anchored" data-anchor-id="biases-according-to-the-course">Biases according to the course</h3>
+<ol type="1">
+<li>Selection bias</li>
+<li>Allocation bias</li>
+<li>Confounding (e.g.&nbsp;randomization not done properly)</li>
+<li>Blinding (detection bias)</li>
+<li>Data collection methods</li>
+<li>Withdrawals and drop-outs</li>
+<li>Statistical analysis</li>
+<li>Intervention integrity</li>
+</ol>
+</section>
+</section>
+<section id="tools" class="level2">
+<h2 class="anchored" data-anchor-id="tools">Tools</h2>
+<ul>
+<li>There are different tools to appraise the quality of a study</li>
+<li>The <a href="https://www.equator-network.org/">equator network</a> collects tools</li>
+</ul>
+<section id="strobe" class="level3">
+<h3 class="anchored" data-anchor-id="strobe">Strobe</h3>
+<ul>
+<li>Critical appraisal of observational studies</li>
+</ul>
+</section>
+<section id="rob2" class="level3">
+<h3 class="anchored" data-anchor-id="rob2">RoB2</h3>
+<ul>
+<li>Critical appraisal of randomized controlled trials</li>
+</ul>
+</section>
+<section id="prisma" class="level3">
+<h3 class="anchored" data-anchor-id="prisma">Prisma</h3>
+<ul>
+<li>Critical appraisal of systematic reviews</li>
+</ul>
+</section>
+<section id="amstar" class="level3">
+<h3 class="anchored" data-anchor-id="amstar">Amstar</h3>
+<ul>
+<li>Critical appraisal tool for systematic reviews.</li>
+<li>Currently there is version 2</li>
+<li>Amstar enables a quantification of the appraisal</li>
+</ul>
+</section>
+</section>
+<section id="what-to-do-with-the-quality-assessment-within-a-systematic-review" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-do-with-the-quality-assessment-within-a-systematic-review">What to do with the quality assessment within a systematic review</h2>
+<ul>
+<li>You could use it for inclusion and exclusion criteria</li>
+<li>You could use it for the discussion</li>
+</ul>
+</section>
+<section id="grading" class="level2">
+<h2 class="anchored" data-anchor-id="grading">Grading</h2>
+<ul>
+<li>Quality of the evidence is not the assessment of the likelihood of an outcome, but the confidence that the assessment is correct!</li>
+<li>Grading is the assessment of all the studies that you included to say something on the body of evidence</li>
+</ul>
+</section>
+<section id="tools-for-grading-evidence" class="level2">
+<h2 class="anchored" data-anchor-id="tools-for-grading-evidence">Tools for grading evidence</h2>
+<section id="grade" class="level3">
+<h3 class="anchored" data-anchor-id="grade">GRADE</h3>
+<p><em>Grading of recommendations development, assessment and evaluation</em> - Framework to rate the quality of evidence identified by the review - The quality of evidence = “extent of confidence that the estimates of the effect are correct” - GRADE is a transparent and reproducible system - Grade looks at study design, study quality, inconsistency of results, imprecision of effects, publication bias - GRADE is suitable for systematic reviews</p>
+</section>
+<section id="application-of-grade" class="level3">
+<h3 class="anchored" data-anchor-id="application-of-grade">Application of GRADE</h3>
+<ol type="1">
+<li>Initial rating of the quality of evidence in a domain</li>
+<li>Assessment of the risk of bias of the body of evidence</li>
+<li>Assessment of the additional factors that can reduce the quality</li>
+<li>Assessment of factors, that can increase the quality of evidence</li>
+<li>Final rating of quality of evidence in a domain</li>
+</ol>
+<section id="grading-output" class="level4">
+<h4 class="anchored" data-anchor-id="grading-output">Grading output</h4>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Grade</th>
+<th>Signs</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>High</td>
+<td>⨁⨁⨁⨁</td>
+<td>We are very confident that the true effect lies close to that of the estimate of the effect.</td>
+</tr>
+<tr class="even">
+<td>Moderate</td>
+<td>⨁⨁⨁◯</td>
+<td>We are moderately confident in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different</td>
+</tr>
+<tr class="odd">
+<td>Low</td>
+<td>⨁⨁◯◯</td>
+<td>Our confidence in the effect estimate is limited: The true effect may be substantially different from the estimate of the effect.</td>
+</tr>
+<tr class="even">
+<td>Very Low</td>
+<td>⨁◯◯◯</td>
+<td>We have very little confidence in the effect estimate: The true effect is likely to be substantially different from the estimate of effect</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="nicesign" class="level3">
+<h3 class="anchored" data-anchor-id="nicesign">NICE/SIGN</h3>
+<ul>
+<li>It has a focus on clinical guidelines</li>
+<li>It does not grade the strength of recommendations</li>
+<li>It accepts more types of evidence than GRADE</li>
+</ul>
+</section>
+<section id="precept" class="level3">
+<h3 class="anchored" data-anchor-id="precept">PRECEPT</h3>
+<ul>
+<li>It is specifically designed for infectious disease epidemiology</li>
+<li>It rates evidence in four domains: disease burden, risk factors, diagnostics and intervention</li>
+<li>See <a href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.40.16-00620">Original Publication by Thomas Harder: <em>PRECEPT an evidence assessment framework for infectious disease epidemiology, prevention and control</em></a></li>
+</ul>
+</section>
+<section id="literature" class="level3">
+<h3 class="anchored" data-anchor-id="literature">Literature</h3>
+<ul>
+<li>See <a href="https://www.ecdc.europa.eu/en/publications-data/evidence-based-methodologies-public-health">ECDC Pulbication: Evidence-based methodologies for public health</a></li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

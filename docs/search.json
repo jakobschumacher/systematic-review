@@ -1,0 +1,604 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This webpage consists out of notes taken during the course “Methods and tools for evidence-based public health with a focus on infectious disease epidemiology, prevention”. The course has been created by Heidelberg Research to Practice Group Coordination Team, Evaplan and ECDC Virtual academy The purpose of this book is to remind the future self of the author on the contents of the course. There are many guides in the internet, that are more through and better reviewed, for example the cochrane handbook"
+  },
+  {
+    "objectID": "about.html#disclaimer",
+    "href": "about.html#disclaimer",
+    "title": "About",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThe course is build upon the course but the facilitators of the course bear no responsibility for the contents of this webpage. All information on this page might be incorrect and false."
+  },
+  {
+    "objectID": "appendix_readingpublications.html#recommendes-steps",
+    "href": "appendix_readingpublications.html#recommendes-steps",
+    "title": "How to read a publication",
+    "section": "Recommendes steps",
+    "text": "Recommendes steps\n\nAssess the type of study\nScan title and research question\nRead the abstract\nRead the methods\nRead the rest\nStore information"
+  },
+  {
+    "objectID": "appendix_templates.html",
+    "href": "appendix_templates.html",
+    "title": "Template",
+    "section": "",
+    "text": "Template"
+  },
+  {
+    "objectID": "appendix_templates.html#template-for-a-review-protocol",
+    "href": "appendix_templates.html#template-for-a-review-protocol",
+    "title": "Template",
+    "section": "",
+    "text": "Template"
+  },
+  {
+    "objectID": "appendix_terminology.html",
+    "href": "appendix_terminology.html",
+    "title": "Terminology of the course",
+    "section": "",
+    "text": "Public Health is the science and practice of preventing disease, prolonging life and promoting health through organised efforts of society Central elements are - the dual character of Public Health as science and practice - integration an simulatneity of the five pillars of public health\nFive pillars of Public Health - Health promotion - Prevention - Treatment - Rehabilitation - Long-term care"
+  },
+  {
+    "objectID": "appendix_terminology.html#public-health",
+    "href": "appendix_terminology.html#public-health",
+    "title": "Terminology of the course",
+    "section": "",
+    "text": "Public Health is the science and practice of preventing disease, prolonging life and promoting health through organised efforts of society Central elements are - the dual character of Public Health as science and practice - integration an simulatneity of the five pillars of public health\nFive pillars of Public Health - Health promotion - Prevention - Treatment - Rehabilitation - Long-term care"
+  },
+  {
+    "objectID": "appendix_terminology.html#planetary-health",
+    "href": "appendix_terminology.html#planetary-health",
+    "title": "Terminology of the course",
+    "section": "Planetary Health",
+    "text": "Planetary Health\nPlanetary health describes how human health depends on the health of ecosystems. The consequences of global climate change, species extinction, threats to oceans and air pollution call for a rethink of the health sector - Key concepts are - Adaption - Mitigation"
+  },
+  {
+    "objectID": "appendix_terminology.html#health-policy",
+    "href": "appendix_terminology.html#health-policy",
+    "title": "Terminology of the course",
+    "section": "Health policy",
+    "text": "Health policy\nHealth pilicy id defined as the decisions, plans and actions that are undertaken to achive specific healthcare goals within a society"
+  },
+  {
+    "objectID": "appendix_terminology.html#epidemiology",
+    "href": "appendix_terminology.html#epidemiology",
+    "title": "Terminology of the course",
+    "section": "Epidemiology",
+    "text": "Epidemiology\nEpidemiology studies how diseases spread amongst human and non-human populations, of often disease occur in different groups of people and why"
+  },
+  {
+    "objectID": "appendix_terminology.html#evidence",
+    "href": "appendix_terminology.html#evidence",
+    "title": "Terminology of the course",
+    "section": "Evidence",
+    "text": "Evidence\nFindings from research and other knowledge that may serve as a basis for decision-making in Public health and healthcare What counts as evidence is context-dependent and is often broader that the knowledge produced through the scientific method."
+  },
+  {
+    "objectID": "appendix_terminology.html#evidence-synthesis",
+    "href": "appendix_terminology.html#evidence-synthesis",
+    "title": "Terminology of the course",
+    "section": "Evidence synthesis",
+    "text": "Evidence synthesis\nIs a type of research method that allows researchers to bringt together all relevant information on a research question"
+  },
+  {
+    "objectID": "appendix_terminology.html#bradford-hill-criteria",
+    "href": "appendix_terminology.html#bradford-hill-criteria",
+    "title": "Terminology of the course",
+    "section": "Bradford-Hill criteria",
+    "text": "Bradford-Hill criteria"
+  },
+  {
+    "objectID": "appendix_terminology.html#measures-of-effect-and-association",
+    "href": "appendix_terminology.html#measures-of-effect-and-association",
+    "title": "Terminology of the course",
+    "section": "Measures of effect and association",
+    "text": "Measures of effect and association\nRelationships between exposures and outcomes are measured by measures of effect, which are statistics that estimate the direction and magnitude of associations among variables\n\nDisease occurrence/frequency\n\nPrevalence\nOccurence of existing cases It is important that you have a representative sample otherwise you just have a proportion.\n\\[ \\text{Prevalence} = {\\text{number of existing cases} \\over \\text{number of people in a population at a definded persiod of time}} \\]\n\n\nIncidence\nOccurence of new cases\n\n\nIncidence risk\nThe incidence when the nominator is the same as the denominator\n\\[ \\text{Incidence risk} = {\\text{number of new cases over a period of time} \\over \\text{number of people at risk at the beginning of the time period}} \\]\n\n\nIncidence rate\nThe incidence whent the denominator is a time \\[ \\text{Incidence rate} = {\\text{number of new cases over a period of time} \\over \\text{number of people at risk during the time period}} \\]\n\n\nRisk\nlikelihood, thatt an event of interest will occur in a subject in a spedivied period of follow-up time The risk is a probability The risk must be between 0 and 1 The denominator ist the population at the beginng\n\n\nRates\nMeasures of the speed of something occuring of developing disease/events occurring in a population A rate ist not a probability The rate is always non negative with no upper limit\n\n\nMortality\nMortality is a special measure of incidence rate The mortality is a rate and thus has time in the denominator (usually expressed as person years)\n\\[ \\text{Mortality} = {\\text{number of deaths} \\over \\text{number of people per unit of time}} \\]\n\n\n\nMeasures of effect\n\nThere are ratio measures (e.g., Odds Ratio, Risk Ratio, Rate Ratio) and difference measures (e.g., Risk difference, Attributable Risk, …)\nRatio measures are used in etiologic studies of health outcomes\nDifference measures are used to quantify population impact & public health importance of risk or protective factors that determine health outcomes (size of problem)\n\n\nOdds ratio\n\\[ \\text{Odds ratio} = {\\text{probability of event} \\over 1- \\text{probability of event}} \\]\n\n\nRisk ratio\n\\[ \\text{Relative risk} = {\\text{Incidence in exposed} \\over \\text{Incidence in the not-exposed}} \\]\n\n\n\nRate ratio\nratio of two average rates"
+  },
+  {
+    "objectID": "appendix_terminology.html#internal-validity",
+    "href": "appendix_terminology.html#internal-validity",
+    "title": "Terminology of the course",
+    "section": "Internal validity",
+    "text": "Internal validity\nInternal validity relates to risk of bias within a study - See Internal and external validity: can you apply research study results to your patients?"
+  },
+  {
+    "objectID": "appendix_terminology.html#external-validity",
+    "href": "appendix_terminology.html#external-validity",
+    "title": "Terminology of the course",
+    "section": "External validity",
+    "text": "External validity\nThe extent to which the conclusions of an empicircal investigation remain true when different research methods and research paricipants or subjects are used. - External validity addresses generalizability or applicability of study results - Whether our sample is generalizable to the general population."
+  },
+  {
+    "objectID": "index.html#quotes",
+    "href": "index.html#quotes",
+    "title": "How to make a systematic review",
+    "section": "Quotes",
+    "text": "Quotes\n\nIts unethical to produce rubbish\nIf you need to start in a new field and look for publication you might as well do a systematic review\nIn public health you will always make people unhappy. Get used to it.\nEvidence needs to be put into context"
+  },
+  {
+    "objectID": "index.html#main-points-to-take-away",
+    "href": "index.html#main-points-to-take-away",
+    "title": "How to make a systematic review",
+    "section": "Main points to take away",
+    "text": "Main points to take away\n\nSystematic reviews are a scientific method that involves distinct and strict steps.\nThere are differences between evidence based medicine, evidence based public health and evidence informed policy\nThere are different types of synthesis: meta-analysis, systematic reviews, literature review, rapid review\nThere are different types of primary studies: randomised controlled trial, cohort studies, case-control studies, cross-sectional study, observational study, expert opinion\nAsses the quality of publications with PRISMA for systematic reviews and STROBE for observational studies\nThe GRADE tool assesses the body of evidence\nThere are a lot of frameworks to go from evidence to decision\nA cates plot is good for informing\nA logic model graphically shows a problem and a solution for that"
+  },
+  {
+    "objectID": "introduction_evidence.html",
+    "href": "introduction_evidence.html",
+    "title": "Evidence-based decision making",
+    "section": "",
+    "text": "Evidence based medicine (EBM) is the conscientious, explicit and judicious use of the current best external, scientific evidence to make medical care decisions for the individual\nThere are three overlapping areas: clinical expertise, patients values and expectations and external knowledge\n\nEBM relies on evidence from well designed and conducted research studies\nEBM recognizes the importance of healthcare professionals clinical experience, knowledge and skills\nEBMG acknowledges the importance of considering individual patient values and expectations\nExamples are the “AWMF Leitlinien” and the IQWiG\n\n\n\n\nHigh quality of evidence -&gt; “we recommend”\nModerate quality of evidence -&gt; “we suggest”\nLow quality of evidence -&gt; “may be considered”\n\n\n\n\n\nConsistency of the results\nRelevance of the endpoints\nConsiderations of benefits and harms\nEthical, social, legal economic considerations\nPreference viewpoints of those affected\nApplicability"
+  },
+  {
+    "objectID": "introduction_evidence.html#evidence-based-medicine",
+    "href": "introduction_evidence.html#evidence-based-medicine",
+    "title": "Evidence-based decision making",
+    "section": "",
+    "text": "Evidence based medicine (EBM) is the conscientious, explicit and judicious use of the current best external, scientific evidence to make medical care decisions for the individual\nThere are three overlapping areas: clinical expertise, patients values and expectations and external knowledge\n\nEBM relies on evidence from well designed and conducted research studies\nEBM recognizes the importance of healthcare professionals clinical experience, knowledge and skills\nEBMG acknowledges the importance of considering individual patient values and expectations\nExamples are the “AWMF Leitlinien” and the IQWiG\n\n\n\n\nHigh quality of evidence -&gt; “we recommend”\nModerate quality of evidence -&gt; “we suggest”\nLow quality of evidence -&gt; “may be considered”\n\n\n\n\n\nConsistency of the results\nRelevance of the endpoints\nConsiderations of benefits and harms\nEthical, social, legal economic considerations\nPreference viewpoints of those affected\nApplicability"
+  },
+  {
+    "objectID": "introduction_evidence.html#evidence-based-public-health",
+    "href": "introduction_evidence.html#evidence-based-public-health",
+    "title": "Evidence-based decision making",
+    "section": "Evidence based Public Health",
+    "text": "Evidence based Public Health\nPublic Health endeavor in which there is informed, explicit and judicious use of the current best evidence in making decisions about the care of populations in the domain of health protection, disease prevention, health maintenance and promotion\n\nIdentification of problems\nEffective measurements\n\nThe overlapping areas: 1. Situtaion in the population, preferences of the people 1. Public Health system 1. Study results, scientific knowledge\n\nTwo main applications of evidence based Public Health\n\nevidence of effectiveneess of interventions\ndefining health risk, identifying groups at special risk, elucidating causal pathways, aetiology, preventable risk factos and assessing the impacts of disease spread and the benevits of prevention"
+  },
+  {
+    "objectID": "introduction_evidence.html#evidence-informed-policy-making",
+    "href": "introduction_evidence.html#evidence-informed-policy-making",
+    "title": "Evidence-based decision making",
+    "section": "Evidence informed Policy making",
+    "text": "Evidence informed Policy making\nAn approach to policy decisions that aim to ensure that decision-making is well-informed by the best available research evidence\nUseful evidences for evidence informed Policy making are - behavioral implementation research - evaluation - Modelling, - data analytics - qualitative insights - evidence synthesis - technology assessment/cost-effectiveness analysis and guidelines\n\nEvidence plays a curcial role in Public Health decision making:\n\neffectiveness assessment\nresouce allocation\nrisk assessment\npolicy development\npublic trust\nevaluation and monitoring\naccountability, ethical consicderations\nhealth equity"
+  },
+  {
+    "objectID": "introduction_evidence.html#evidence-based-vs.-evidence-informed",
+    "href": "introduction_evidence.html#evidence-based-vs.-evidence-informed",
+    "title": "Evidence-based decision making",
+    "section": "Evidence-based vs. evidence informed",
+    "text": "Evidence-based vs. evidence informed\n\nEvidence-based: guided by high quality scientific evidence\nEvidence-informed:draws on a combination of scientific evidence and contextual factors. So it recognizes the need for adaption to diverse settings. The decision-making process balances epmiprical evidence with real-world considerations and encourages flexibility"
+  },
+  {
+    "objectID": "introduction_evidence.html#other-areas",
+    "href": "introduction_evidence.html#other-areas",
+    "title": "Evidence-based decision making",
+    "section": "Other areas",
+    "text": "Other areas\n\nEvidence-based management\nEvidence-based teaching\nAviation security"
+  },
+  {
+    "objectID": "introduction_synthesis.html",
+    "href": "introduction_synthesis.html",
+    "title": "Evidence synthesis and different types of reviews",
+    "section": "",
+    "text": "Evidence syntheses combine data from multiple sources, most commonly from existing research studies, to provide an overall summary of current knowledge."
+  },
+  {
+    "objectID": "introduction_synthesis.html#study-designs",
+    "href": "introduction_synthesis.html#study-designs",
+    "title": "Evidence synthesis and different types of reviews",
+    "section": "Study designs",
+    "text": "Study designs\n\n\n\nStudytype\nScope\nQuality\n\n\n\n\nDirect observation\nDirect measurement\nhighest\n\n\nMeta-analysis\nSynopses of syntheses\nhigh\n\n\nSystematic review\nSyntheses\nhigh\n\n\nEvidence syntheses\nSyntheses\nhigh\n\n\nRCT\nExperimental\nmedium\n\n\nLaboratory\nExperimental\nmedium\n\n\nCohort\nObservational\nmedium\n\n\nCase control\nObservational\nmedium\n\n\nCross sectional\nObservational\nmedium\n\n\nCase series\nDescriptive\nmedium\n\n\nQualitative studies\nPrimary study\nmedium\n\n\nSystematic expert opinion\nPrimary study\nmedium\n\n\nUnystematic expert opinion\nPrimary study\nmedium"
+  },
+  {
+    "objectID": "introduction_synthesis.html#a-more-detailled-listing-of-evidence-synthesis",
+    "href": "introduction_synthesis.html#a-more-detailled-listing-of-evidence-synthesis",
+    "title": "Evidence synthesis and different types of reviews",
+    "section": "A more detailled listing of evidence synthesis",
+    "text": "A more detailled listing of evidence synthesis\n\nRapid review: Rapidly summarize and synthesize existing evidence often for time-sensitive decision-making\nLiterature review: Provide a broad overview of existing literature on a topic.\nScoping review: Map and asses the extent of existing research on a broad topic often without specific research questions to identify key concepts, sources and gaps\nSystematic review: Answer a specific research question by systematically collecting, evaluating and synthesizing existing research studies\nSystematic review with meta-analysis: A meta-analysis is a quantitative, formal and epidemiological study design used to systematically assess the results of previous research to derive conclusions.\nUmbrella review: Synthesize findings from multiple systematic reviews and meta-analyses on a specific topic\nLiving review: A review article that is updated at intervals to reflect the latest research"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html",
+    "href": "step10_aftersynthesis.html",
+    "title": "Step 10: Translate science into action",
+    "section": "",
+    "text": "This steps includes the activities that you should do after you have done a systematic review"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#what-happens-after-synthesis",
+    "href": "step10_aftersynthesis.html#what-happens-after-synthesis",
+    "title": "Step 10: Translate science into action",
+    "section": "What happens after synthesis",
+    "text": "What happens after synthesis\nScientific knowledge needs to be translated into action. It is the decision makers who take the decisions and not the scientific people."
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#what-is-important-for-decision-makers",
+    "href": "step10_aftersynthesis.html#what-is-important-for-decision-makers",
+    "title": "Step 10: Translate science into action",
+    "section": "What is important for decision makers",
+    "text": "What is important for decision makers\n\nconceptual utility\ninstrumental utility\npolitical utility"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#who-to-include-für-translating-science",
+    "href": "step10_aftersynthesis.html#who-to-include-für-translating-science",
+    "title": "Step 10: Translate science into action",
+    "section": "Who to include für translating science",
+    "text": "Who to include für translating science\n\nYou could include a group of experts using a DELPHI Method to come up with consensus\nYou could include stakeholders"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#frameworks",
+    "href": "step10_aftersynthesis.html#frameworks",
+    "title": "Step 10: Translate science into action",
+    "section": "Frameworks",
+    "text": "Frameworks\n\nGRADE\nGRADE also has a say in evidence to decision framework\n\n\nFramework: Evidence-informed polidy and practice framework (EIPP)\nOriginal article: EIPP\n\nProlbem identification\nevidence synthesis\nstakeholder engagement\npolicy development\nimpemantaion\nevaluation\n\n\n\nFramework: Knowledge to action framework (KTA)\nOriginal article Medium-article: KTA\n\n\nFramework: Policy triangle framework\nOriginal article\n\n\nContextual evidence-informed policy framework (CEIP)\nOriginal article - It is propageted by WHO\n\n\nPublic health decision-making framework\nOriginal article\n\nIdentification: Identify relevant alternatives.\nDistinguishing: Distinguish relevant empirical differences between alternatives, including contingencies.\nRanking: Rank, as far as possible, alternatives from best to worst.\nEvaluation: Make explicit, as far as possible, in what sense some alternatives are better than others.\nDocumentation: Submit the result of the evaluation to a designated oversight institution.\n\n\n\nDelibarative processes and citizen engagement models\n\n\nRapid evidence synthesis models (RES)"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#relevance-of-reviews",
+    "href": "step10_aftersynthesis.html#relevance-of-reviews",
+    "title": "Step 10: Translate science into action",
+    "section": "Relevance of reviews",
+    "text": "Relevance of reviews\n\nImportance of end points\nThere is a hierarchy of outcomes for example for UAW for phosphate lowering drugs Mortality &gt; Myocardial infaction &gt; Flatulence\n\n\n“Need to treat”\n\nThe number needed to treat is easy to grasp\nFor example: Treating 10 patients with tissue plasmoinogen activator within three hours will save one patient.\n\n\n\nExternal validity\n\nIt is essential to consider if we can generalise the reviews findings to the “real world”"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#evidence-to-decision-conceptual-map-workflow",
+    "href": "step10_aftersynthesis.html#evidence-to-decision-conceptual-map-workflow",
+    "title": "Step 10: Translate science into action",
+    "section": "Evidence to decision conceptual map workflow",
+    "text": "Evidence to decision conceptual map workflow\nMoberg J et al. 2018: The GRADE Evidence to Decision (EtD) framework for health system and public health decisions"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#criteria-for-health-systems-and-public-health-decisions",
+    "href": "step10_aftersynthesis.html#criteria-for-health-systems-and-public-health-decisions",
+    "title": "Step 10: Translate science into action",
+    "section": "Criteria for health systems and public health decisions:",
+    "text": "Criteria for health systems and public health decisions:\n\n1. Priority of the problem\n\nis the problem a priority? Are the consequences of the problem serious (that is, severe or important in terms of the potential benefits or savings)?\nIs the problem urgent? [Not relevant for coverage decisions]\nIs it a recognised priority (such as based on a political or policy decision)?\n\n\n\n2. Benefits and harms (desirable and undesirable anticipated effects)\n\nJudgments for each outcome for which there is a desirable effect/undesirable effect – big challenge in public health: even if the certainty of a “harm” is low, health authorities should act\n\n\n\n3. Certainty of the evidence - What is the overall certainty of the evidence of effects?\n\n“GRADE quality of evidence” framework; more difficult to access on reviews with qualitative, gray sources of evidence\n\n\n\n4. Outcome importance\n\nhow much people value each of the main outcomes?\n\n\n\n5. Balance\n\nJudgments regarding each of the four preceding criteria\nPeople’s values outcomes in future compared to outcomes in present\nPeople’s attitudes towards undesirable or desirable effects (how risk averse/risk seeking population is)\n\n\n\n6. Resource use\n\nConsider implementing alternatives; use of (public) funds; cost effectiveness\n\n\n\n7. Equity - Consideration of impacts on equity (horizontal and vertical) with the introduction of a policy\n\ngroups or settings that might be disadvantaged or will turn to be disadvantaged?\ndifferent baseline conditions across groups or settings that affect the effectiveness of the intervention?\nensure that inequities are reduced/are not increased\n\n\n\n8. Acceptability - In public health, consider multiple stakeholders and public opinion!\n\nAcceptance of distribution of the benefits, harms and costs, and of trade of costs or undesirable effects in the short term for desirable effects (benefits) in the future\nimportance (value) attached to effects affect people’s autonomy?\ndisapprove of the intervention due moral principals (no maleficence, beneficence, or justice)\n\n\n\n9. Feasibility - Is the intervention or option sustainable?\n\nAre there important barriers that are likely to limit the feasibility of implementing the intervention (option) or require consideration when implementing it\nFor coverage decisions:\n\nIs coverage of the intervention sustainable?\nIs it feasible to ensure appropriate use for approved indications, or is inappropriate use (indications that are not approved) an important concern?\nIs access to the intervention an important concern?\nAre there important legal or bureaucratic or legal constraints that that make it difficult or impossible to cover the intervention?"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#ethical-considerations",
+    "href": "step10_aftersynthesis.html#ethical-considerations",
+    "title": "Step 10: Translate science into action",
+    "section": "Ethical considerations",
+    "text": "Ethical considerations\n\nUsually synthesis dont need an ethical clearence\n\nWork with IJCME authorship\nAvoid doing redundant reviews\nIts unethical to produce rubbish\n\n\nFour ethical considerations in medicine\n\nAutonomy - you respect the wish of the patients\nJustice - everybody has the same rights\nBenevolence - you are actively trying to do good\nNon-maleficiance - you are trying not to do bad things"
+  },
+  {
+    "objectID": "step10_aftersynthesis.html#dissemination",
+    "href": "step10_aftersynthesis.html#dissemination",
+    "title": "Step 10: Translate science into action",
+    "section": "Dissemination",
+    "text": "Dissemination\nPlan you dissemination upfront\n\nPossible ways to disseminate\n\nJournal\nConferences\nPolicy dialogues\nPress release\nSocial media\n\n\n\nPolicy brief\n\nMany journals now want a policy brief\nBig organisations now publish directly policy briefs\n\n\n\nGraphs\n\nCates Plot\n\n\n\nPolicy dialogue\n\nGo to panels"
+  },
+  {
+    "objectID": "step1_rationale.html",
+    "href": "step1_rationale.html",
+    "title": "Step 1: Think about the rationale",
+    "section": "",
+    "text": "In this step we think about if we want to conduct a systematic review"
+  },
+  {
+    "objectID": "step1_rationale.html#why-should-we-do-an-evidence-synthesis",
+    "href": "step1_rationale.html#why-should-we-do-an-evidence-synthesis",
+    "title": "Step 1: Think about the rationale",
+    "section": "Why should we do an evidence synthesis",
+    "text": "Why should we do an evidence synthesis\n\nIdentify gaps\nestablish an evidence base for best-practice guidance\nhelp inform policymakers and practitioners"
+  },
+  {
+    "objectID": "step1_rationale.html#topic",
+    "href": "step1_rationale.html#topic",
+    "title": "Step 1: Think about the rationale",
+    "section": "Topic",
+    "text": "Topic\nFor the creation of a systematic review you obviously need a topic Possible topics for systematic reviews - Conditions, categories and measures - Rates and trends - Correlates - Predictors - Causes and effects - Cost effectiveness - Comparative effectiveness - Generalizability"
+  },
+  {
+    "objectID": "step1_rationale.html#determine-the-type-of-review",
+    "href": "step1_rationale.html#determine-the-type-of-review",
+    "title": "Step 1: Think about the rationale",
+    "section": "Determine the type of review",
+    "text": "Determine the type of review\nYou need to think about what type of synthesis you want to do. - Depends on time, resources, aim, depth required\n\nSystematic review\nA systematic review attempts to identify, appraise and synthesize all the empirical evidence that meets pre-specified eligibility criteria to answer a specific research question. The purpose of a systematic review is to provide a meticulous summary of all available primary evidence on a research question.\nKey charateristicts: - A clearly stated set of objectives - Pre-defined eligibility criteria for studies - A explicit, reproducible methodology - A systematic search that attempts to identify all studies that would meet the eligibility - Assessment of the validity of the findings - A systematic presentation and synthesis of the characteristics and findings"
+  },
+  {
+    "objectID": "step1_rationale.html#problems-of-synthesis-studies",
+    "href": "step1_rationale.html#problems-of-synthesis-studies",
+    "title": "Step 1: Think about the rationale",
+    "section": "Problems of synthesis studies",
+    "text": "Problems of synthesis studies\n\nHeterogeneity\n\nSynthesis studies suffer from heterogeneity, that is the differences between the studies\n\n\n\nPublication bias\n\nAll synthesis studies have a publication bias to some degree\nYou can use a funnel plot to have a look"
+  },
+  {
+    "objectID": "step1_rationale.html#sensitivity-analysis",
+    "href": "step1_rationale.html#sensitivity-analysis",
+    "title": "Step 1: Think about the rationale",
+    "section": "Sensitivity analysis",
+    "text": "Sensitivity analysis\nUsually certain studies with lower quality are exluded. Does this change the results"
+  },
+  {
+    "objectID": "step1_rationale.html#look-for-existing-reviews-and-asses-their-quality",
+    "href": "step1_rationale.html#look-for-existing-reviews-and-asses-their-quality",
+    "title": "Step 1: Think about the rationale",
+    "section": "Look for existing reviews and asses their quality",
+    "text": "Look for existing reviews and asses their quality\nLook on pubmed/cochrane and so on"
+  },
+  {
+    "objectID": "step1_rationale.html#think-about-the-potential-use-of-the-synthesis",
+    "href": "step1_rationale.html#think-about-the-potential-use-of-the-synthesis",
+    "title": "Step 1: Think about the rationale",
+    "section": "Think about the potential use of the synthesis",
+    "text": "Think about the potential use of the synthesis\n\nExample types of outputs of evidence synthesis\n\nSystematic reviews\nPolicy brief\nClinical practice guidelines"
+  },
+  {
+    "objectID": "step2_setup.html",
+    "href": "step2_setup.html",
+    "title": "Step 2: Setup your review",
+    "section": "",
+    "text": "In this step we prepare everything, that we need for the systematic review. Especially we prepare the review protocol"
+  },
+  {
+    "objectID": "step2_setup.html#find-your-team",
+    "href": "step2_setup.html#find-your-team",
+    "title": "Step 2: Setup your review",
+    "section": "Find your team",
+    "text": "Find your team\nIt would be good to have the following people on board - Specialist for the content - Specialist for systematic reviews - Librarian - Statistician (if you plan on making a Meta-Analysis)\n\nAuthorship\nIt can be wise to make sure who is going to be the first and the last author and who will be in the middle"
+  },
+  {
+    "objectID": "step2_setup.html#plan-your-ressources",
+    "href": "step2_setup.html#plan-your-ressources",
+    "title": "Step 2: Setup your review",
+    "section": "Plan your ressources",
+    "text": "Plan your ressources\n\nA review takes time from 3 months to a year or longer"
+  },
+  {
+    "objectID": "step2_setup.html#prepare-a-review-protocol",
+    "href": "step2_setup.html#prepare-a-review-protocol",
+    "title": "Step 2: Setup your review",
+    "section": "Prepare a review protocol",
+    "text": "Prepare a review protocol\nThe review protocol is a part of a study or systematic review, that gives the framework of the research question, search strategy, selection criteria and procedures, quality assessment checklist, data extraction and data synthesis strategy and timeframe. The review protocol is a living document until it is registered. It is used to document the process. The review protocol is later turned into the review.\n\nA review protocol is filled along the way\nYou can use a review template of the course\nYou can use a review template from the university library\nYou can make your own template starting from prospero or cochrane\n\n\na. Title\nThe typical title of systematic reviews follows your research question\nA typical title follows the PICO Scheme: [Intervention] for [Improving/Reducing/Increasing] [Outcome] [Compared to other intervention] in [Population]: a systematic review of [study design]\nFor example: Transmission of Zika virus through breast milk and other breastfeeding-related bodily-fluids: a systematic review of evidence\n\n\nb. Background\n\nImportant characteristics: What are the important population and/or disease characteristics (diagnostic criteria, epidemiology, aetiology, prognosis, etc.)\nRelevance: Does the review topic have important implications for health (individual and/or public), as well as health care, policy and research)?\nRationale: Does the evidence (including existing systematic reviews) fail to answer the review question, and why?\nJustification: Is the need for the review justified in the light of the potential health implications and current limitations of the evidence base?\nSpecification: What are the PICO(S) components of the review question?\n\n\n\nc. Methods\n\nSearch strategy\nWhich electronic databases will you search?\nWhat are the key search terms?\nWhat other sources will you search?\nSelection criteria\nWhat are the inclusion and exclusion criteria?\nWill you impose any additional limits, e.g., language, publication type, study design?\nHow will study selection be performed?\nQuality assessment\nWhat criteria will be used to assess methodological quality?\nHow will quality assessment be performed? Data extraction\nWhat are the key data to be extracted?\nHow will data extraction be performed, and how will extract data be presented?\nData synthesis\nHow will data be combined (statistical or narrative), and why?\nWhat are the potential sources of effect heterogeneity and how will they be assessed?\n\n\n\nd. Process\nWhat resources are required to conduct the review, and are they available?\n\nRelevant expertise\nComputing facilities\nResearch databases\nBibliographic software\nStatistical software How will the findings of the review be disseminated?\nTarget audience\nPublication type\nCommunication media"
+  },
+  {
+    "objectID": "step3_researchquestion.html",
+    "href": "step3_researchquestion.html",
+    "title": "Step 3: Formulate your research question",
+    "section": "",
+    "text": "The identification of the best evidence requires the construction of an appropriate research question and review of the literature. Matching questions with appropriate study design and review type is a key step in conducting research Well-formulated research questions will guide many aspects of conducting reviews PICO(S) scheme helps defining a specific research question for systematic reviews"
+  },
+  {
+    "objectID": "step3_researchquestion.html#how-to-find-a-research-question",
+    "href": "step3_researchquestion.html#how-to-find-a-research-question",
+    "title": "Step 3: Formulate your research question",
+    "section": "How to find a research question",
+    "text": "How to find a research question\n\nFind your topic\nConduct a preliminary literature search\nWrite a draft of your question\nCheck for PICO and FINER (or other schemes)\nCheck with another literature search\nCheck in registries\n\nCheck with stakeholder/colleagues"
+  },
+  {
+    "objectID": "step3_researchquestion.html#tools-to-help-formulate-a-research-question",
+    "href": "step3_researchquestion.html#tools-to-help-formulate-a-research-question",
+    "title": "Step 3: Formulate your research question",
+    "section": "Tools to help formulate a research question",
+    "text": "Tools to help formulate a research question\n\nPICO\nPEO\nSPIDER\nPCC\n\n\nPICOS\nIts a commonly used tool\n- Patient/population/problem - Intervention - comparison - Outcome - Setting\n\n\nScheme: FINER\nFeasible Interesting Novel Ethical Relevant\n\n\nScheme: MAPS\nManagable Appropriate Potential value and publishability Systematic"
+  },
+  {
+    "objectID": "step3_researchquestion.html#types-of-research-question",
+    "href": "step3_researchquestion.html#types-of-research-question",
+    "title": "Step 3: Formulate your research question",
+    "section": "Types of research question",
+    "text": "Types of research question\n\n\n\n\n\n\n\n\nQuestion\nType\n\n\n\n\nWhat proportion of the population is newly diagnosed with this disease each year?\nIncidence\n\n\nWhat proportion of the population is currently living with this disease?\nPrevalence\n\n\nWhat can be done to treat this disease?\nTherapy\n\n\nWill early detection of this disease make a difference in a person‘s life?\nScreening\n\n\nHow good is this test at detecting the disease?\nDiagnostic accuracy\n\n\nWhat is the likely outcome of this disease?\nPrognosis\n\n\nCan there be any negative effects (of an intervention)?\nHarm\n\n\nHow can this disease be prevented?\nEtiology"
+  },
+  {
+    "objectID": "step3_researchquestion.html#characteristics-of-good-research-question",
+    "href": "step3_researchquestion.html#characteristics-of-good-research-question",
+    "title": "Step 3: Formulate your research question",
+    "section": "Characteristics of good research question",
+    "text": "Characteristics of good research question\nThe most successful research questions are narrowly focused and carefully defined but are important parts of a broad-ranging, complex problem.\nA good research question is beneficial as it\n\ndetails the problem statement\nfurther describes and refines the issue under study\nadds focus to the problem statement\nguides data collection and analysis\nsets context of research"
+  },
+  {
+    "objectID": "step3_researchquestion.html#example",
+    "href": "step3_researchquestion.html#example",
+    "title": "Step 3: Formulate your research question",
+    "section": "Example",
+    "text": "Example\nIn ZIKV-free infants or children, does breastfeeding (any or exclusive) from a ZIKV-infected lactating mother, compared to not breastfeeding, result in evidence of ZIKV infection in the infant?"
+  },
+  {
+    "objectID": "step3_researchquestion.html#check-with-stakeholders-and-colleagues",
+    "href": "step3_researchquestion.html#check-with-stakeholders-and-colleagues",
+    "title": "Step 3: Formulate your research question",
+    "section": "Check with stakeholders and colleagues",
+    "text": "Check with stakeholders and colleagues\nBest practice is to engage stakeholder including users in setting the question possibly through an advisory group\n\nDoes the review question sound interesting and useful\nWhat interventions should be included\nWhich population should be included\nAre there subgroups\nWhat types of outcomes should the review include?"
+  },
+  {
+    "objectID": "step3_researchquestion.html#document",
+    "href": "step3_researchquestion.html#document",
+    "title": "Step 3: Formulate your research question",
+    "section": "Document",
+    "text": "Document\nYour research question should be documented in your protocol. The research question should also be used for the title."
+  },
+  {
+    "objectID": "step4_visualise.html",
+    "href": "step4_visualise.html",
+    "title": "Step 4: Visualise your problem",
+    "section": "",
+    "text": "A visualisation is helpful for clarifing your thoughts and to communicate the problem"
+  },
+  {
+    "objectID": "step4_visualise.html#logical-models",
+    "href": "step4_visualise.html#logical-models",
+    "title": "Step 4: Visualise your problem",
+    "section": "Logical models",
+    "text": "Logical models\nA logic model creates a diagrammatic representation of the key components of a programme and the way that actions are intended to lead to outcomes The Better Care Fund (2015) - Use a logic models for the definition of research question. It is a conceptual diagram. The diagram helps to illustrate your view on the problem. It should help understand the big picture - Use the logic models for communication, for example to politics - Logical models are created by asking many if-then questions. - You can use a logical model throughout all stages of a review\n\nSteps in creation\nThis guide follows a Tutorial by Ruth Knight\n\n\na. Participation\n\nDefine who you want to participate\nCreate a table for participation\n\n\n\n\n\n\n\n\n\n\n\nWho will be consulted\nHow we will consult with them\nHow will this be achieved\nWhat we are consulting with them about\nWho is responsible for collating feedback\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nb. State the problem\n\nWrite down the problem concisely (preferably under 250 words)\nAddress the following parts: Who is affected? What are the causes? What are the symptoms? Key findings of previous studies? What are the consequences?\nYou can use the “Problem Tree Approach”\n\n\n\nc. State the solution\n\nWrite down the goal or the intervention\nIt should contain a solution about the problem, that you stated earlier\n\n\n\nd. State the resources needed\n\nThis step is typical in the creation of a logical model but is probably not necessary for a systematic review, because we wont actually be doing a program\nWrite down what resources are needed to implement the solution for the problem (not the resources needed for doing a review)\n\n\n\ne. State the outputs\n\nWhat will happen if the solution is applied to the problem\nOutputs are the direct results of the intervention\nOutputs can be grouped\nYou can divide the outputs in activities and who is affected\n\n\n\nf. State the outcomes\n\nOutcomes can be divided into short-term, medium-term and long-term outcomes\n\n\n\nExample\n\n\n\nSource: Mediawiki"
+  },
+  {
+    "objectID": "step4_visualise.html#directed-acylcic-graphs-dag",
+    "href": "step4_visualise.html#directed-acylcic-graphs-dag",
+    "title": "Step 4: Visualise your problem",
+    "section": "Directed acylcic graphs (DAG)",
+    "text": "Directed acylcic graphs (DAG)\n\nUse a DAG"
+  },
+  {
+    "objectID": "step4_visualise.html#document",
+    "href": "step4_visualise.html#document",
+    "title": "Step 4: Visualise your problem",
+    "section": "Document",
+    "text": "Document\nYou can put your logic model into the protocol"
+  },
+  {
+    "objectID": "step5_searchstrategy.html",
+    "href": "step5_searchstrategy.html",
+    "title": "Step 5: Develope a search strategy",
+    "section": "",
+    "text": "The search strategy consists of the identification of a database, the developement of appropriate search terms and their combination, translate the search terms to different databases, set the inclusion and exclusion criteria and to document the search strategy. The search strategy needs to combine sensitivity to identify relevant information and specificity to exclude irrelevant publications. The search strategy is important to reduce selection bias."
+  },
+  {
+    "objectID": "step5_searchstrategy.html#a.-identify-relevant-databases",
+    "href": "step5_searchstrategy.html#a.-identify-relevant-databases",
+    "title": "Step 5: Develope a search strategy",
+    "section": "A. Identify relevant databases",
+    "text": "A. Identify relevant databases\n\nTypical databases\n\nMedline (Pubmed): National Library of Medicine\nCochrane library provides reliable and upt-to date information from seven different databases\nEmbase (Scopus)\nWeb of science\nGoogle scholar (Counts as grey literature)\n\n\n\nGrey literature\nIt can be difficult to find grey literature. You need to have experts in the field. Typical resources are found on websites of agencies.\n\n\nTips\n\nStart with Pubmed to get a feeling\nLook at the tutorials of the search engines\nFor google scholar you could say: “sort by relevance” then say you screen a maximum of 500. Second rulse would be to stop if you have not had a relevant hit in the last 50 entries."
+  },
+  {
+    "objectID": "step5_searchstrategy.html#b.-develope-search-terms",
+    "href": "step5_searchstrategy.html#b.-develope-search-terms",
+    "title": "Step 5: Develope a search strategy",
+    "section": "B. Develope search terms",
+    "text": "B. Develope search terms\n\nYou need an search expert and a top expert.\nYou need two people to do the research\nBreak up your research question\nFind terms\nFind alternatives for example with MESH or use the cochrane MESH Browser\nTruncate the terms and use wildcards\nUse wildcards for woman and women wom?n\nUse boolean operators AND, OR, NOT\nCheck for errors\nTest and repeat"
+  },
+  {
+    "objectID": "step5_searchstrategy.html#c.-translate-the-search-strategy",
+    "href": "step5_searchstrategy.html#c.-translate-the-search-strategy",
+    "title": "Step 5: Develope a search strategy",
+    "section": "C. Translate the search strategy",
+    "text": "C. Translate the search strategy\n\nTranslate the search syntax\nA problem with MESH is, that it takes time to set the MESH terms\nThere are translations resources: Polyglot search tool"
+  },
+  {
+    "objectID": "step5_searchstrategy.html#d.-set-inclusion-and-exclusion-criteria",
+    "href": "step5_searchstrategy.html#d.-set-inclusion-and-exclusion-criteria",
+    "title": "Step 5: Develope a search strategy",
+    "section": "D. Set inclusion and exclusion criteria",
+    "text": "D. Set inclusion and exclusion criteria\n\nLimit by evidence hierarchy\nLimit by publication date\nLimit by article language (it often is not a good idea)\nLimit by article type\nLimit by text availability\n\n\nDeal with too many or too little results\nThere may be a problem with too much or too little results. You shouldn’t change the research question but rather change inclusion and exclusion criteria.\n\nToo many hits\n\nReduce text words\nUse filter options (time span, publication types, etc.)\nConsider less minors aspects\nUse narrower terms (MeSH)\n\n\n\nToo little hits\n\nExtend text words (use synonyms or truncation)\nUse broader terms (MeSH)\nCheck your search logic\nCheck misspelling\nDeselect filters\nCheck “related articles”"
+  },
+  {
+    "objectID": "step5_searchstrategy.html#e.-document",
+    "href": "step5_searchstrategy.html#e.-document",
+    "title": "Step 5: Develope a search strategy",
+    "section": "E. Document",
+    "text": "E. Document\n\nYour search terms\nYour limits\nYour inclusion and exclusion criteria for example with a table"
+  },
+  {
+    "objectID": "step6_dataextraction.html",
+    "href": "step6_dataextraction.html",
+    "title": "Step 6: Screen and extract data",
+    "section": "",
+    "text": "In the screening process you look for studies that dont fit your selection criteria. In the data extraction you decide on the variables that you want to capture, extract the eligible studies, import it into your software and extract the relevant data.\n\n\nWhat you do in data extraction\n\nYou decide on the variables that you want to capture\nYou export the search results from the databases\nYou import the search results in a reference manager or a specialized tool\nYou look through each publication and get out the variables that you want\n\n\n\nAnticipate problems\n\nDisagreement between reviewers when extracting data.\nOutcome data being reported in different ways, which are not necessarily suitable for meta-analysis.\nIncluding estimates and alternative measures.\nRisk of double counting study participants.\nRisk of human error, inconsistency and subjectivity when extracting data.\nAmbiguous or incomplete data.\nExtracting the right amount of data\n\n\n\nCitation manager\n\nZotero\nJabref\nEndnote\nMendeley Referencemanager\n\n\n\nSpecialized tools\nInstead of a citation manager you can use specific tools - Rayyan - Covidence\n\n\nAI-Tools\n\nElicit\nConsensus\nLitmaps\nscite\n\n\n\nDocument\n\nOutline the information that will be extracted\nDetails of any software to be used for recording the data\nProcedure for data extraction"
+  },
+  {
+    "objectID": "step7_registerprotocoll.html",
+    "href": "step7_registerprotocoll.html",
+    "title": "Step 5: Register your protocol",
+    "section": "",
+    "text": "make sure you stick to the rules\ninform others\nplan for publication"
+  },
+  {
+    "objectID": "step7_registerprotocoll.html#why-you-should-register-your-study-protocols-for-systematic-reviews-should-be-done-to",
+    "href": "step7_registerprotocoll.html#why-you-should-register-your-study-protocols-for-systematic-reviews-should-be-done-to",
+    "title": "Step 5: Register your protocol",
+    "section": "",
+    "text": "make sure you stick to the rules\ninform others\nplan for publication"
+  },
+  {
+    "objectID": "step7_registerprotocoll.html#registration-sites",
+    "href": "step7_registerprotocoll.html#registration-sites",
+    "title": "Step 5: Register your protocol",
+    "section": "Registration sites",
+    "text": "Registration sites\nPROSPERO"
+  },
+  {
+    "objectID": "step8_qualityassessment.html",
+    "href": "step8_qualityassessment.html",
+    "title": "Step 8: Asses the quality",
+    "section": "",
+    "text": "Carful and systematic appraisal the outcome of the single studies used in the systematic review judge its trustworthiness, value and relevance in a particular context and in general the internal validity and external validity and the relevance. The grading asses the body of evidence of all studies._"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#why-should-we-appraise-the-single-studies",
+    "href": "step8_qualityassessment.html#why-should-we-appraise-the-single-studies",
+    "title": "Step 8: Asses the quality",
+    "section": "Why should we appraise the single studies",
+    "text": "Why should we appraise the single studies\n\nNot all literature is of satisfactory methodological rigour\nJust because it is published does not mean it is methodologically sound\nYou have to assess validity\nWhat implications does the study have for your practice\nCan the results be applied to your organisation"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#what-to-asses-to-appraisal-a-study-according-to-the-course",
+    "href": "step8_qualityassessment.html#what-to-asses-to-appraisal-a-study-according-to-the-course",
+    "title": "Step 8: Asses the quality",
+    "section": "What to asses to appraisal a study according to the course",
+    "text": "What to asses to appraisal a study according to the course\n\nInternal validity\n\nBiases\nStatistical errors\n\nExternal validity\n\nGeneralizability\nChoice of outcome"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#what-to-asse-to-appraise-a-study-according-to-the-author-of-this-book",
+    "href": "step8_qualityassessment.html#what-to-asse-to-appraise-a-study-according-to-the-author-of-this-book",
+    "title": "Step 8: Asses the quality",
+    "section": "What to asse to appraise a study according to the author of this book",
+    "text": "What to asse to appraise a study according to the author of this book\n\nObjectivity\nValidity\nReliability"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#appraisal-for-specific-types-of-studies",
+    "href": "step8_qualityassessment.html#appraisal-for-specific-types-of-studies",
+    "title": "Step 8: Asses the quality",
+    "section": "Appraisal for specific types of studies",
+    "text": "Appraisal for specific types of studies\n\nAppraise a systematic review\n\nClearly-focused research question\nInclusion of the right type of studies\nIdentification of all relevant studies\nAssessment of the quality of the included studies\nRationale for the combination of studies\nReporting of study results\nPrecision of study results\nApplication of results to local population\nConsideration of all outcomes\nPolicy or practice change as a result of evidence\n\n\n\nAppraise an RCTs\n\nCriteria for assessment of risk of bias in RCTs\nWas the random allocation done adequately and methodologically sound?\nWas the allocation adequately concealed?\nWere the groups similar at the outset of the study with regards to participant characteristics and prognostic factors, e.g. severity of disease?\nWere the care providers, participants and outcome assessors blind to treatment allocation (e.g. single-blind, double-blind)?\nWere there any unexpected imbalances in drop-outs between groups?\nIs there any suspicion that the authors measured more outcomes than they reported?\nDid the analysis include an intention to treat analysis?\nWere appropriate methods used to account for missing data?\nand what is the potential impact on the evidence if any of this criteria were not met?\n\n\n\nAppraise a cohort Study\n\nWere the groups and the distribution of prognostic factors described comprehensively?\nWere the groups assembled at a similar point in their disease progression?\nWas the intervention/treatment ascertained reliably and standardized?\nWere the groups comparable with regards to important confounders?\nWas the analysis done stratified or adjusted for these confounders?\nWas a dose-response relationship between intervention and outcome investigated?\nWas the outcome assessment blind to exposure status?\nWas follow-up long enough for outcomes to occur?\nWhat proportion of the cohort was followed-up?\nWere drop-out rates and reasons similar across intervention and unexposed groups?\n\n\n\nAppraise a Case-Control Study\n\nWas the case definition explicit?\nHas the disease state of the cases been assessed standardized and validated?\nWere the controls randomly selected from the source population of the cases?\nHow comparable are the exposed and unexposed with respect to potential confounders?\nWere interventions and exposures assessed in the same way for cases and controls?\nHow was the response rate defined?\nWere the response rates and reasons for non-response the same for both groups?\nIs it possible that over-matching has occurred such that cases and controls were matched on factors related to exposure?\nWas an appropriate statistical analysis used (matched or unmatched)?\n\n\n\nAppraise an economic evaluations\n\nWas there a well-defined research question?\nWas there comprehensive description of alternative scenarios?\nWere all relevant costs and outcomes for each alternative identified?\nHas clinical effectiveness been established?\nWere costs and outcomes measured accurately?\nWere costs and outcomes valued credibly?\nWere costs and outcomes adjusted for differential timing?\nHas an incremental analyses of costs been conducted and consequences discussed?\nWere sensitivity analyses done to investigate uncertainty in cost estimates or consequences?\nHow far do study results include all issues of concern to users?\nAre the results generalizable to the setting of interest in the review?"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#bias",
+    "href": "step8_qualityassessment.html#bias",
+    "title": "Step 8: Asses the quality",
+    "section": "Bias",
+    "text": "Bias\n\nBiases accoring to Miguel Hernan\n\nConfounding\nSelection bias\nMeasurement bias\n\n\nsee What if by Hernan\n\n\n\nBiases according to the course\n\nSelection bias\nAllocation bias\nConfounding (e.g. randomization not done properly)\nBlinding (detection bias)\nData collection methods\nWithdrawals and drop-outs\nStatistical analysis\nIntervention integrity"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#tools",
+    "href": "step8_qualityassessment.html#tools",
+    "title": "Step 8: Asses the quality",
+    "section": "Tools",
+    "text": "Tools\n\nThere are different tools to appraise the quality of a study\nThe equator network collects tools\n\n\nStrobe\n\nCritical appraisal of observational studies\n\n\n\nRoB2\n\nCritical appraisal of randomized controlled trials\n\n\n\nPrisma\n\nCritical appraisal of systematic reviews\n\n\n\nAmstar\n\nCritical appraisal tool for systematic reviews.\nCurrently there is version 2\nAmstar enables a quantification of the appraisal"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#what-to-do-with-the-quality-assessment-within-a-systematic-review",
+    "href": "step8_qualityassessment.html#what-to-do-with-the-quality-assessment-within-a-systematic-review",
+    "title": "Step 8: Asses the quality",
+    "section": "What to do with the quality assessment within a systematic review",
+    "text": "What to do with the quality assessment within a systematic review\n\nYou could use it for inclusion and exclusion criteria\nYou could use it for the discussion"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#grading",
+    "href": "step8_qualityassessment.html#grading",
+    "title": "Step 8: Asses the quality",
+    "section": "Grading",
+    "text": "Grading\n\nQuality of the evidence is not the assessment of the likelihood of an outcome, but the confidence that the assessment is correct!\nGrading is the assessment of all the studies that you included to say something on the body of evidence"
+  },
+  {
+    "objectID": "step8_qualityassessment.html#tools-for-grading-evidence",
+    "href": "step8_qualityassessment.html#tools-for-grading-evidence",
+    "title": "Step 8: Asses the quality",
+    "section": "Tools for grading evidence",
+    "text": "Tools for grading evidence\n\nGRADE\nGrading of recommendations development, assessment and evaluation - Framework to rate the quality of evidence identified by the review - The quality of evidence = “extent of confidence that the estimates of the effect are correct” - GRADE is a transparent and reproducible system - Grade looks at study design, study quality, inconsistency of results, imprecision of effects, publication bias - GRADE is suitable for systematic reviews\n\n\nApplication of GRADE\n\nInitial rating of the quality of evidence in a domain\nAssessment of the risk of bias of the body of evidence\nAssessment of the additional factors that can reduce the quality\nAssessment of factors, that can increase the quality of evidence\nFinal rating of quality of evidence in a domain\n\n\nGrading output\n\n\n\n\n\n\n\n\nGrade\nSigns\nDefinition\n\n\n\n\nHigh\n⨁⨁⨁⨁\nWe are very confident that the true effect lies close to that of the estimate of the effect.\n\n\nModerate\n⨁⨁⨁◯\nWe are moderately confident in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different\n\n\nLow\n⨁⨁◯◯\nOur confidence in the effect estimate is limited: The true effect may be substantially different from the estimate of the effect.\n\n\nVery Low\n⨁◯◯◯\nWe have very little confidence in the effect estimate: The true effect is likely to be substantially different from the estimate of effect\n\n\n\n\n\n\nNICE/SIGN\n\nIt has a focus on clinical guidelines\nIt does not grade the strength of recommendations\nIt accepts more types of evidence than GRADE\n\n\n\nPRECEPT\n\nIt is specifically designed for infectious disease epidemiology\nIt rates evidence in four domains: disease burden, risk factors, diagnostics and intervention\nSee Original Publication by Thomas Harder: PRECEPT an evidence assessment framework for infectious disease epidemiology, prevention and control\n\n\n\nLiterature\n\nSee ECDC Pulbication: Evidence-based methodologies for public health"
+  },
+  {
+    "objectID": "step9_synthesis.html",
+    "href": "step9_synthesis.html",
+    "title": "Step 9: Synthesise your results",
+    "section": "",
+    "text": "In this step we will synthesize data narratively, using tables and figures as appropriate, to provide structured reporting."
+  },
+  {
+    "objectID": "step9_synthesis.html#types-of-synthesis-which-is-a-part-the-results-section",
+    "href": "step9_synthesis.html#types-of-synthesis-which-is-a-part-the-results-section",
+    "title": "Step 9: Synthesise your results",
+    "section": "Types of synthesis which is a part the results section",
+    "text": "Types of synthesis which is a part the results section\n\nQualitative synthesis (or descriptive synthesis)\nQuantitative synthesis\nSubgroup analysis\nSensitivity analysis\nNarrative synthesis\n\n\nQualitative synthesis\n\nDescription of the publications that you found. Authors, Countries, Types of studies.\nTrying to bring the knowledge, understanding and interpreting the topic\nDeeper understanding about your judgements about the evidence\nDo you believe the evidence?\nHow could these judgements have affected your interpretation of the results?\nWhat about missing evidence? Could this have affected your judgement? How could you handle that? Would you do a sensitivity analysis? What do you think about the interpretation of your findings given this factor?\nReasonableness of conducting a meta-analysis\nDescribe patterns in evidence: young people vs older group (subgroup analysis). Would this help interpret your findings?\n\n\n\nQuantitative analysis\n\nDo studies address the same question?\nThe studies you’re going to include in your systematic review usually differ in one way or another\nEach study is summarized by an estimate of effect (the result) (i.e., risk ratio)\nThe overall measure of the effect is a weighted average of the results of the individual studies\nWeighted average: more weight if more information (mainly sample size); more information leads to increased precision\n\n\n\nEvidence tables\nEvidence tables are summaries of the data extraction tables"
+  },
+  {
+    "objectID": "synthesissteps.html",
+    "href": "synthesissteps.html",
+    "title": "Overview over the steps",
+    "section": "",
+    "text": "Is a review required\nAre there existing or ongoing ones\nIf one is required the next step is to establish a review team to develop the review protocol\nSetup a review team"
+  },
+  {
+    "objectID": "synthesissteps.html#preliminary-steps",
+    "href": "synthesissteps.html#preliminary-steps",
+    "title": "Overview over the steps",
+    "section": "",
+    "text": "Is a review required\nAre there existing or ongoing ones\nIf one is required the next step is to establish a review team to develop the review protocol\nSetup a review team"
+  },
+  {
+    "objectID": "synthesissteps.html#go-through-the-steps",
+    "href": "synthesissteps.html#go-through-the-steps",
+    "title": "Overview over the steps",
+    "section": "Go through the steps",
+    "text": "Go through the steps"
+  }
+]
