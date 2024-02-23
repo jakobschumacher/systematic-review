@@ -13,4 +13,9 @@ This webpage consists out of notes taken during the course [_"Methods and tools 
 The course is build upon the course but the facilitators of the course bear no responsibility for the contents of this webpage. All information on this page might be incorrect and false.
 
 ## Acknowledgments
-Besides the author and institutions of the course - whom I thank very much - I thank quarto/posit and the R community.
+### Contents
+I want to thank the instructures and their institutions of the course
+### Software
+I thank posit for the great tool quarto and rmarkdown and github for hosting
+### Pictures
+I thank Mediawiki for providing pictures, Canva for the possibility to create a nice bookcover and Dall E for the Logo
